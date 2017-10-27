@@ -1,11 +1,4 @@
 
-####################
-##### Code #########
-####################
-### This code will find all the text values associated with anchor tags to links
-### use this to test against the dictionary built of the stocks with avg vol < 3M
-
-
 from bs4 import BeautifulSoup
 import pprint
 import urllib2
@@ -48,12 +41,10 @@ def prep_tickers(path):
 
 	return stocks
 
-path = 'your_path/data/stock_.txt'
-stocker = prep_tickers(path)
-print stocker
-print len(stocker)
-# url = 'http://financemainpage.com/Listing_of_All_Wilshire_5000_Stocks.html'
-# get_wilshire_stocks(url)
+url = 'http://financemainpage.com/Listing_of_All_Wilshire_5000_Stocks.html'
+get_wilshire_stocks(url)
+# path = 'your_path/data/stock_.txt'
+# stocker = prep_tickers(path)
 
 write_path = 'your_path/data/wilshire_stocks.txt'
 open(write_path, 'w').close()

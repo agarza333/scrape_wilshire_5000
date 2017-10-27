@@ -1,0 +1,2056 @@
+Agilent Technologies	A	Alcoa Inc	AA
+Asset Accep Cap Corp	AACC	Airtran Hldgs Inc	AAI
+Alabama Aircraft Ind In	AAII	Atlantic Amern Corp	AAME
+Aaron Rents Inc	AAN	Aaon Inc	AAON
+Advanced Auto Parts	AAP	Apple Computer Inc	AAPL
+Advanced Analogic Te	AATI	Atlas Air Worldwide	AAWW
+Alliancebernstein Ho	AB	Advanced Battery Tec	ABAT
+Abaxis Inc	ABAX	Abington Bancorp Inc	ABBC
+Amerisourcebergen Co	ABC	Ameris Bancorp	ABCB
+Advisory Brd Co	ABCO	Anchor Bancorp Wis I	ABCW
+Acco Brands Corp	ABD	Allegro Biodiesel Co	ABDS
+Arkansas Best Corp	ABFS	Asbury Automotive Gr	ABG
+Abitibibowater Inc	ABH.Z	Abraxis Bioscience Inc	ABII
+Arca Biopharma Inc	ABIO	Ambac Finl Group Inc	ABK
+American Biltrite In	ABL	Abm Inds Inc	ABM
+Amer Bio Medica Corp	ABMC	Abiomed Inc	ABMD
+Arbor Rlty Tr Inc	ABR	Abbott Labs	ABT
+Autobytel Com Inc	ABTL	Alliance Bankshares	ABVA
+Acadia Pharmaceutica	ACAD	American Physicians	ACAP
+Arctic Cat Inc	ACAT	American Campus Cmnt	ACC
+Accelrys Inc	ACCL	Aceto Chem Inc	ACET
+Americredit Corp	ACF	Atlantic Coast Fed C	ACFC
+Acorn Factor Inc	ACFN	Arch Cap Group Ltd	ACGL
+Achillion Pharmaceut	ACHN	Arch Coal Inc	ACI
+Aci Worldwide Inc	ACIW	American Commercial Lin	ACLI
+Axcelis Technologies	ACLS	Aecom Technology Corp D	ACM
+A C Moore Arts & Cra	ACMR	Amcol Intl Corp	ACO
+Acorda Therapeutics	ACOR	Active Power Inc	ACPW
+Affiliated Computer	ACS.Z	Acacia Resh Corp	ACTG
+Actividentity Corp	ACTI	Actel Corp	ACTL
+Actuate Software Cor	ACTU	Acme Utd Corp	ACU
+Acura Pharmaceuticals I	ACUR	Alberto Culver Co Ne	ACV
+Acxiom Corp	ACXM	Aerocentury Corp	ACY
+A D A M Inc	ADAM	Authentidate Hldg Co	ADAT
+Adobe Sys Inc	ADBE	Agree Realty Corp	ADC
+A D C Telecommunicat	ADCT	Adept Technology Inc	ADEP
+Ada Es Inc	ADES	Allied Defense Group	ADG
+Adams Golf Inc	ADGF	Analog Devices Inc	ADI
+Adcare Health System	ADK	Adolor Corp	ADLR
+Advanced Life Scienc	ADLS	Archer Daniels Midla	ADM
+Adamis Pharmaceuticals	ADMP	Automatic Data Proce	ADP
+American Dental Part	ADPI	Adaptec Inc	ADPT
+Alliance Data System	ADS	Autodesk Inc	ADSK
+Adtran Inc	ADTN	Addus Homecare Corp	ADUS
+Advanta Corp	ADVN.B	Advent Software Inc	ADVS
+Adams Res & Energy I	AE	Advance Amer Cash Ad	AEA
+Associated Estates R	AEC	Ameren Corp	AEE
+Aehr Test Systems	AEHR	Advanced Energy Inds	AEIS
+American Eqty Invt L	AEL	Adeona Pharmaceuticals	AEN
+American Eagle Outfi	AEO	American Elec Pwr In	AEP
+Aep Inds Inc	AEPI	Applied Energetics Inc	AERG
+Aero Grow Intl Inc	AERO	Advanced Environ Rec	AERT
+Aes Corp	AES	Aetna Inc	AET
+American Elect Tech Inc	AETI	Addvantage Media Gro	AEY
+American Oil & Gas I	AEZ	Astoria Finl Corp	AF
+Almost Family Inc	AFAM	Afc Enterprises Inc	AFCE
+Affirmative Ins Hldg	AFFM	Affymetrix Inc	AFFX
+Affymax Inc	AFFY	American Finl Group	AFG
+Aflac Inc	AFL	Alliance Fiber Optic	AFOP
+United Cap Corp	AFP	Amtrust Financial Se	AFSI
+Aga Med Hldgs Inc	AGAM	Agco Corp	AGCO
+Antigenics Inc Del	AGEN	Argo Group Intl Hldgs L	AGII
+Agl Res Inc	AGL	Federal Agric Mtg Co	AGM
+Allergan Inc	AGN	American Capital Agency	AGNC
+Assured Guaranty Ltd	AGO	Amerigroup Corp	AGP
+Argan Inc	AGX	Agilysys Inc	AGYS
+A H Belo Corp	AHC	Allied Healthcare In	AHCI
+Atlas Pipeline Holdi	AHD	Alliance Holdings Gp	AHGP
+Animal Health Intl I	AHII	Aspen Insurance Hold	AHL
+Allied Healthcare Pr	AHPI	Anthracite Cap Inc	AHR
+Amn Healthcare Servi	AHS	Ashford Hospitality	AHT
+Arlington Asset Invt Co	AI	American Intl Group Inc	AIG
+Aerosonic Corp Del	AIM	Altra Holdings Inc	AIMC
+Albany Intl Corp	AIN	American Italian Pas	AIPC
+Alliance Imaging Inc	AIQ	Aar Corp	AIR
+Air Methods Corp	AIRM	Airspan Networks Inc	AIRN
+Air T Inc	AIRT	Airvana Inc	AIRV
+Antares Pharma Inc	AIS	Applied Indl Technol	AIT
+Apartment Invt & Mgm	AIV	Assurant Inc	AIZ
+Gallagher Arthur J &	AJG	Akamai Technologies	AKAM
+Akeena Solar Inc De	AKNS	Acadia Rlty Tr	AKR
+Akorn Inc	AKRX	Ak Stl Hldg Corp	AKS
+Alanco Technologies	ALAN	Albemarle Corp	ALB
+Assisted Living Concpt	ALC	Alico Inc	ALCO
+Aldila Inc	ALDA	Allete Inc	ALE
+Alexander & Baldwin	ALEX	Alamo Group Inc	ALG
+Align Technology Inc	ALGN	Allegiant Travel Co	ALGT
+Alon Usa Energy Inc	ALJ	Alaska Airgroup	ALK
+Alkermes Inc	ALKS	Allstate Corp	ALL
+Alliance Pharmaceuti	ALLP	Alliance Financial C	ALNC
+Alnylam Pharmaceutic	ALNY	Analogic Corp	ALOG
+Astro Med Inc New	ALOT	Alloy Inc	ALOY
+Alseres Pharmaceuticals	ALSE	Alaska Communication	ALSK
+Allos Therapeutics I	ALTH	Altair Nanotechnolog	ALTI
+Altera Corp	ALTR	Altus Pharmaceutical	ALTU
+Alexanders Inc	ALX	Alexza Pharmaceutica	ALXA
+Alexion Pharmaceutic	ALXN	Allis Chalmers Corp	ALY
+American Greetings	AM	Amer Medical Alert	AMAC
+Amag Pharmaceuticals In	AMAG	Amarillo Biosciences	AMAR
+Applied Materials In	AMAT	Amb Property Corp.	AMB
+Applied Micro Circuits	AMCC	Amicas Inc	AMCS
+Advanced Micro Devic	AMD	Ametek Inc New	AME
+Amedisys Inc	AMED	Amcore Finl Inc	AMFI
+Affiliated Managers	AMG	Amgen	AMGN
+American Independenc	AMIC	Ambassadors Intl Inc	AMIE
+American Intl Indust	AMIN	Amkor Technology Inc	AMKR
+Aml Communications I	AMLJ	Amylin Pharmaceutica	AMLN
+American Med Sys Hld	AMMD	Ameron Inc	AMN
+American Natl Banksh	AMNB	Allied Motion Techno	AMOT
+Ameriprise Finl Inc	AMP	American Physicians	AMPH
+Ampal Amern Israel	AMPL	Amr Corp	AMR
+American Riv Hldgs	AMRB	Albany Molecular Res	AMRI
+American Shared Hosp	AMS	American Superconduc	AMSC
+Amerisafe Inc	AMSF	Amsurg Corp	AMSG
+American Software In	AMSW.A	American Tower Sys C	AMT
+Td Ameritrade Hldg C	AMTD	Amerityre Corp	AMTY
+American Woodmark Co	AMWD	Amazon Com Inc	AMZN
+Autonation Inc	AN	Anadigics Inc	ANAD
+American Natl Ins Co	ANAT	American Caresource	ANCI
+Access Natl Corp	ANCX	Andersons Inc	ANDE
+Andrea Radio Corp	ANDR	Anadys Pharmaceutica	ANDS
+Anaren Inc	ANEN	Abercrombie & Fitch	ANF
+Angeion Corp	ANGN	Angiodynamics Inc	ANGO
+Anworth Mtge Assets	ANH	Anika Resh Inc	ANIK
+Analysts Intl Corp	ANLY	Ann Taylor Stores Co	ANN
+Alpha Natural Resour	ANR	Ansys Inc	ANSS
+Anesiva Inc Com	ANSV	Answers Corp	ANSW
+Ante4 Inc	ANTF	Phazar Corp	ANTP
+Allied Nevada Gold Corp	ANV	Adventrx Pharmaceuti	ANX
+Alliance One Intl In	AOI	Aol Inc	AOL
+Aon Corp	AON	A123 Sys Inc	AONE
+Smith A O Corp 'b'	AOS	Ampco-Pittsburgh Cor	AP
+Apache Corp	APA	Appalachian Bancshar	APAB
+Apac Teleservices In	APAC	Apco Oil & Gas Internat	APAG.F
+Anadarko Pete Corp	APC	Air Prods & Chems In	APD
+American Public Educati	APEI	American Pac Corp	APFC
+Amphenol Corp New	APH	Advanced Photonix In	API
+Acme Packet Inc	APKT	Atlas Pipeline Partn	APL
+Apogee Enterprises	APOG	Apollo Group Inc	APOL
+American Apparel Inc	APP	Ap Pharma Inc	APPA
+Aspenbio Inc	APPY	Applied Signal Techn	APSG
+Amerigas Partners L	APU	Aspyra Inc	APY
+Accuray Inc	ARAY	Arbitron	ARB
+Ariba Inc	ARBA	Arbinet Thexchange I	ARBX
+Appliance Recycling	ARCI	Arena Resources Inc	ARD
+Arden Group Inc	ARDN.A	Alexandria Real Esta	ARE
+Approach Resources Inc	AREX	Airgas Inc	ARG
+Amerigon Inc	ARGN	Apollo Coml Real Est Fi	ARI
+Ariad Pharmaceutical	ARIA	American Railcar Ind	ARII
+Arch Chemicals Inc	ARJ	Ark Restaurants Corp	ARKR
+American Rlty Invs I	ARL	Alliance Resource Pa	ARLP
+Arvinmeritor Inc	ARM	Arena Pharmaceutical	ARNA
+Aeropostale	ARO	Arrow Finl Corp	AROW
+American Reprographi	ARP	Arqule Inc	ARQL
+Arris Group Inc	ARRS	Array Biopharma Inc	ARRY
+Arabian Shield Dev	ARSD	Arcsight Inc	ARST
+Artio Global Invs Inc	ART	Art Technology Group	ARTG
+Artesian Res Corp	ARTN.A	Arts Way Mfg Inc	ARTW
+Arotech Corp	ARTX	Aruba Networks Inc	ARUN
+Arrow Electrs Inc	ARW	Arrow Res Dev Inc	ARWD
+Arrowhead Resh Corp	ARWR	Aryx Therapeutics Inc	ARYX
+Advansource Biomaterial	ASB	Associated Banc Corp	ASBC
+Ameristar Casinos In	ASCA	Ascent Media Corp	ASCM.A
+American Science &En	ASEI	Administaff Inc	ASF
+Asta Fdg Inc	ASFI	Atlantic Southern Fi	ASFN
+On Assignment Inc	ASGN	America Svc Group In	ASGR
+Ashland Inc New	ASH	American Safety Ins	ASI
+Altisource Portfolio So	ASPS	Ameriserv Finl Inc	ASRV
+Astrotech Corp	ASTC	Astec Inds Inc	ASTE
+Ascent Solar Technol	ASTI	Aastrom Biosciences	ASTM
+Asure Software Inc	ASUR	Amtech Sys Inc	ASYS
+Asyst Technology Cor	ASYT	Atc Technology Corp	ATAC
+Cycle Ctry Accessori	ATC	American Technology	ATCO
+Astea Intl Inc	ATEA	Alphatec Holdings In	ATEC
+Altigen Communicatio	ATGN	Athenahealth Inc	ATHN
+Atheros Communicatio	ATHR	Allegheny Technologi	ATI
+Alliant Techsystems	ATK	Ames Natl Corp	ATLO
+Atlas Energy Inc	ATLS	Atmi Inc	ATMI
+Atmel Corp	ATML	Atlantic Tele Networ	ATNI
+Atmos Energy Corp	ATO	Atp Oil & Gas Corp	ATPG
+Aptargroup Inc	ATR	Atricure Inc	ATRC
+Atrion Corp	ATRI	Aetrium Inc	ATRM
+Atrinsic Inc	ATRN	Astronics Corp	ATRO
+Air Trans Hldgs Inc	ATSG	Ats Med Inc	ATSI
+Actuant Corp	ATU	Activision Blizzard Inc	ATVI
+Atwood Oceanics Inc	ATW	Cross A T Co	ATX
+Accuride Corp	AURD.Q	Authentec Inc	AUTH
+Auxilium Pharmaceuti	AUXL	Avista Corp	AVA
+Aerovironment Inc	AVAV	Avalonbay Cmntys Inc	AVB
+Advocat Inc	AVCA	American Vanguard Co	AVD
+Avid Technology Inc	AVID	Avi Biopharma Inc	AVII
+Avanir Pharmaceutica	AVNR	Aviat Networks Inc	AVNW
+Avon Prods Inc	AVP	Aventine Renewable E	AVR
+Avistar Communicatio	AVSR	Avnet Inc	AVT
+Avatar Hlds Inc	AVTR	Avx Corp New	AVX
+Avax Technologies In	AVXT	Avery Dennison Corp	AVY
+Aviza Technology Inc	AVZA	Americanwest Bancorp	AWBC
+Allied Wrld Assuranc	AWH	Armstrong World Inds	AWI
+American Wtr Wks Co Inc	AWK	American Sts Wtr Co	AWR
+Aware Inc Mass	AWRE	Avalon Hldgs Corp	AWX
+Abraxas Pete Corp	AXAS	Anixter Intl Inc	AXE
+Accelreight Technolo	AXK	American Axle & Mfg	AXL
+American Express Co	AXP	Amrep Corp New	AXR
+Axis Capital Holding	AXS	Axcess Inc	AXSI
+Axesstel Inc	AXST	Axt Inc	AXTI
+Allegheny Energy Inc	AYE	Acuity Brands Inc	AYI
+Aircastle Ltd	AYR	Autozone Inc	AZO
+Azz Inc	AZZ	Barnes Group Inc	B
+Boeing Co	BA	Natus Medical Inc De	BABY
+Bank Amer Corp	BAC	Einstein Noah Rest Grou	BAGL
+Books-A-Million Inc	BAMM	Bancfirst Corp	BANF
+Banner Corp	BANR	Bare Escentuals Inc	BARE
+Bancorp Rhode Island	BARI	Basic Energy Svcs In	BAS
+Baxter Intl Inc	BAX	Bay Natl Corp	BAYN
+Blackboard Inc	BBBB	Bed Bath & Beyond In	BBBY
+Breitburn Energy Par	BBEP	Barrett Bill Corp	BBG
+Beasley Broadcast Gr	BBGI	Blockbuster Inc	BBI
+Bigband Networks Inc	BBND	Bridge Cap Hldgs	BBNK
+Black Box Corp Del	BBOX	Barrett Business Ser	BBSI
+Bb&T Corp	BBT	Build A Bear Worksho	BBW
+Bankatlantic Bancorp	BBX	Best Buy Inc	BBY
+Brunswick Corp	BC	Brinks Co	BCO
+Beacon Power Corp	BCON	Balchem Corp	BCPC
+Bard C R Inc	BCR	Biocryst Pharmaceu	BCRX
+Blue Coat Systems In	BCSI	Broadcast Intl Inc N	BCST
+Belden Cdt Inc	BDC	Blue Dolphin Energy	BDCO
+Bridge Bancorp Inc	BDGE	Black & Decker Mfg	BDK
+Brandywine Rlty Tr	BDN	Blonder Tongue Labs	BDR
+Biodelivery Sciences	BDSI	Becton Dickinson	BDX
+Cardionet Inc	BEAT	Be Aerospace Inc	BEAV
+Bebe Stores Inc	BEBE	Beckman Coulter Inc	BEC
+Beacon Roofing Suppl	BECN	Strategic Hotel Cap	BEE
+Bel Fuse Inc	BELF.B	Franklin Res Inc	BEN
+Berkshire Bancorp In	BERK	Brigham Exploration	BEXP
+Baldor Elec Co	BEZ	Brown Forman Dst 'b'	BF.B
+Beacon Fed Bancorp Inc	BFED	Bankfinancial Corp	BFIN
+Bluefly Inc	BFLY	Beach First National	BFNB
+Bioform Medical Inc	BFRM	Saul Ctrs Inc	BFS
+Brooklyn Federal Ban	BFSB	Bunge Limited	BG
+General Cable Corp D	BGC	Bgc Partners Inc	BGCP
+Big 5 Sporting Goods	BGFV	Briggs & Stratton Co	BGG
+Buckeye Gp Holdings	BGH	Borders Group Inc	BGP
+B & G Foods Inc New	BGS	Bar Hbr Bankshares	BHB
+Benchmark Electrs In	BHE	Baker Hughes Inc	BHI
+Natural Health Trend	BHIP	Berkshire Hills Banc	BHLB
+Brookfield Homes Cor	BHS	Sothebys Hldgs Inc	BID
+Bidz Com Inc	BIDZ	Big Lots Inc	BIG
+Biogen Idec Inc	BIIB	Bio Rad Labs Inc	BIO
+Bioclinica Inc	BIOC	Biodel Inc	BIOD
+Biofuel Energy Corp	BIOF	Bioscript Inc	BIOS
+Brookfield Infrast Part	BIP.U	Bitstream Inc	BITS
+Bjs Wholesale Club I	BJ	Bioject Med Tech Inc	BJCT
+Bjs Restaurants Inc	BJRI	Bj Svcs Co	BJS
+Bank Of New York Mellon	BK	Burger King Hldgs In	BKC
+Brookdale Sr Living	BKD	Buckle Inc	BKE
+Black Hills Pwr & Lt	BKH	Buckeye Technologies	BKI
+Bank Mutual Corp New	BKMU	Baker Michael Corp	BKR
+Bakers Footwear Grou	BKRS	Barnes & Nobles Inc	BKS
+Bankunited Finl Corp	BKUN.A	Bank Ky Finl Corp	BKYF
+Belo A H Corp	BLC	Baldwin Technology I	BLD
+Builders Firstsource	BLDR	Biolife Solutions In	BLFS
+Building Matls Hldg	BLGM	Blackrock Inc	BLK
+Blackbaud Inc	BLKB	Ball Corp	BLL
+Bridgeline Software Inc	BLSW	Blount Intl Inc New	BLT
+Biolase Technology I	BLTI	Immucor Inc	BLUD
+Bmc Software Inc	BMC	Badger Meter Inc	BMI
+Biomed Realty Trust	BMR	Bank Of Marin Bancorp	BMRC
+Biomarin Pharmaceuti	BMRN	Bemis Inc	BMS
+Bryn Mawr Bk Corp	BMTC	Biomimetic Therapeut	BMTI
+Bristol Myers Squibb	BMY	Beneficial Mutual Banco	BNCL
+Bnc Bancorp	BNCN	Bowne & Co Inc	BNE
+Benihana Inc	BNHN.A	Burlington Northn Sa	BNI
+Bionovo Inc	BNVI	Banks Com Inc	BNX
+Bob Evans Farms Inc	BOBE	Bofi Hldg Inc	BOFI
+Bank Fla Corp Naples	BOFL	Bank Hawaii Corp	BOH
+Bok Finl Corp	BOKF	Bolt Technology Corp	BOLT
+Bon-Ton Stores Inc	BONT	Dynamic Matls Corp	BOOM
+Lacrosse Footwear In	BOOT	Biosante Pharmaceuti	BPAX
+Boston Private Banco	BPFH	Bridgepoint Ed Inc	BPI
+Buckeye Partners L P	BPL	Brookfield Pptys Cor	BPO
+Popular Inc	BPOP	Broadpoint Gleacher Sec	BPSG
+Bp Prudhoe Bay Rty T	BPT	Biopure Corp	BPUR
+Bpz Energy Inc	BPZ	Broadridge Finl Solutio	BR
+Brady Corporation	BRC	Brocade Communications	BRCD
+Broadcom Corp	BRCM	Bre Properties Inc	BRE
+Bridgford Foods Corp	BRID	Berkshire Hathaway I	BRK.A
+Brookline Bancorp In	BRKL	Bruker Biosciences C	BRKR
+Brooks Automation In	BRKS	Bio-Reference Labs I	BRLI
+Barnwell Inds Inc	BRN	Bronco Drilling Co I	BRNC
+Brown & Brown Inc	BRO	Bristow Group Inc	BRS
+Brt Rlty Tr	BRT	Berry Pete Co	BRY
+Bsd Med Corp Del	BSDM	Bassett Furniture In	BSET
+Biosphere Medical In	BSMD	Bsquare Corp	BSQR
+Sierra Bancorp	BSRR	Biospecifics Technol	BSTC
+Boston Scientific Co	BSX	Banctrust Financial	BTFG
+Blyth Inc	BTH	Biotime Inc	BTIM
+Ballantyne Omaha Inc	BTN	Peabody Energy Corp	BTU
+Btu Intl Inc	BTUI	Bucyrus Intl Inc New	BUCY
+Butler Natl Corp	BUKS	First Busey Corp	BUSE
+Broadvision Inc	BVSN	Bovie Medical Corp	BVX
+Brush Engineered Mat	BW	Borg-Warner Automoti	BWA
+Baldwin & Lyons Inc	BWIN.B	Buffalo Wild Wings I	BWLD
+Boardwalk Pipeline P	BWP	Brown Shoe Inc New	BWS
+Basin Wtr Inc	BWTR	Bway Holding Company	BWY
+Blackstone Group L P	BX	Bluelinx Hldgs Inc	BXC
+Bluegreen Corp	BXG	Boston Properties In	BXP
+Bancorpsouth Inc	BXS	Boyd Gaming Corp	BYD
+Bally Technologies I	BYI	Boise Inc	BZ
+Beazer Homes Usa Inc	BZH	Citigroup Inc	C
+Ca Inc	CA	Cabelas Inc	CAB
+Camden Natl Corp	CAC	Cascade Bancorp	CACB
+Credit Accep Corp Mi	CACC	Cache Inc	CACH
+Caci Inc	CACI	Cadence Finl Corp	CADE
+Cadence Pharmaceutic	CADX	Camco Finl Corp	CAFI
+Conagra Foods Inc	CAG	Cardinal Health Inc	CAH
+Cheesecake Factory I	CAKE	Continental Airls In	CAL
+California Coastal C	CALC	Callidus Software In	CALD
+Cal Maine Foods Inc	CALM	Caliper Life Science	CALP
+Cameron Internationa	CAM	Cambridge Heart Inc	CAMH
+Calamp Corp	CAMP	Cai International Inc	CAP
+Orthologic Corp	CAPS	Avis Budget Group	CAR
+Castle A M & Co	CAS	Cascade Finl Corp	CASB
+Cascade Corp	CASC	Meta Finl Group Inc	CASH
+Cas Medical Sys Inc	CASM	Cass Information Sys	CASS
+Caseys Gen Stores	CASY	Caterpillar Inc	CAT
+Cardtronics Inc	CATM	Cato Corp New	CATO
+Cathay Bancorp Inc	CATY	Cavium Networks Inc	CAVM
+Cca Inds Inc	CAW	Chubb Corp	CB
+Bank Southn Ore Medf	CBAN	Cincinnati Bell Inc	CBB
+Columbia Bancorp Ore	CBBO	Capitol Bancorp Ltd	CBC
+Cbeyond Communicatio	CBEY	Cb Richard Ellis Gro	CBG
+Community Bk Shs Ind	CBIN	Christopher & Banks	CBK
+Capital Bk Corp	CBKN	Cbl & Assoc Pptys In	CBL
+Cleveland Biolabs In	CBLI	Cambrex Corp	CBM
+Calypte Biomedical C	CBMC	Combimatrix Corporation	CBMX
+Cape Bancorp Inc	CBNJ	Chicopee Bancorp Inc	CBNK
+Community Bancorp Ne	CBON	Caribou Coffee Inc	CBOU
+Ciber Inc	CBR	Cracker Barrel Old Ctry	CBRL
+Columbia Labs Inc	CBRX	Cbs Corp	CBS
+Commerce Bancshares	CBSH	Cubist Pharmaceutica	CBST
+Cabot Corp	CBT	Commonwealth Biotech	CBTE
+Community Bk Sys Inc	CBU	Cbiz Inc	CBZ
+Capital City Bk Grou	CCBG	Calgon Carbon Corp	CCC
+Coca Cola Enterprise	CCE	Cryo-Cell Intl Inc	CCEL
+Chase Corp	CCF	Crown Castle Intl Co	CCI
+Coleman Cable Inc	CCIX	Crown Holdings Inc	CCK
+Carnival Corp	CCL	Cabot Microelectroni	CCMP
+Cnb Finl Corp Pa	CCNE	Clear Channel Outdoo	CCO
+Cogent Comm Group In	CCOI	Cross Ctry Healthcar	CCRN
+Compucredit Hldgs Corp	CCRT	Concurrent Computer Cor	CCUR
+Coeur D Alene Mines Cor	CDE	C D I Corp	CDI
+Cadence Designs Sys	CDNS	Cedar Shopping Ctrs	CDR
+Clean Diesel Technologi	CDTI	Cadiz Inc	CDZI
+Celanese Corp Del	CE	Cec Entmt Inc	CEC
+Ceco Environmental C	CECE	Career Education Cor	CECO
+Central European Dis	CEDC	Constellation Energy	CEG
+Celgene Corp	CELG	Brightpoint Inc	CELL
+Chemtura Corp	CEMJQ	Central Garden & Pet	CENT.A
+Century Alum Co	CENX	Cephalon Inc	CEPH
+Cerner Corp	CERN	Cerus Corp	CERS
+Ceva Inc	CEVA	Cf Inds Hldgs Inc	CF
+Central Fed Corp	CFBK	Community Finl Corp	CFFC
+C & F Finl Corp	CFFI	Capitol Fed Finl	CFFN
+Culp Inc	CFI	Brinks Home Sec Hldgs I	CFL
+Carefusion Corp	CFN	California First Ntn	CFNB
+Cardinal Finl Corp	CFNL	Cullen Frost Bankers	CFR
+Comforce Corp	CFS	Cano Pete Inc	CFW
+Colfax Corp	CFX	Celadon Group Inc	CGI
+Cognex Corp	CGNX	Consolidated Graphic	CGX
+Champion Enterprises	CHB	Comstock Homebuildin	CHCI
+City Hldg Co	CHCO	Church & Dwight Inc	CHD
+Churchill Downs Inc	CHDN	Chindex Internationa	CHDX
+Chemed Corp New	CHE	Cheviot Finl Corp	CHEV
+Chemical Finl Corp	CHFC	Ch Energy Group Inc	CHG
+Choice Hotels Intl I	CHH	Chesapeake Energy Co	CHK
+Cherokee Inc Del New	CHKE	Champion Inds Inc W	CHMP
+C&D Technologies Inc	CHP	Chordiant Software I	CHRD
+Charming Shoppes Inc	CHRS	C H Robinson Worldwi	CHRW
+Chicos Fas Inc	CHS	Catalyst Health Solutio	CHSI
+Chelsea Therapeutics	CHTP	Chattem Inc	CHTT
+O Charleys Inc	CHUX	Chyron Corp	CHYR
+Cigna Corp	CI	Citizens Inc	CIA
+Communication Intell	CICI	Cinedigm Digital Cinema	CIDM
+Cobalt Intl Energy Inc	CIE	Ciena Corp	CIEN
+Star Scientific Inc	CIGX	Chimera Invt Corp	CIM
+Cincinnati Finl Corp	CINF	Circor Intl Inc	CIR
+Comsys It Partners I	CITP	Cfs Bancorp Inc	CITZ
+Compx International	CIX	Central Jersey Banco	CJBK
+Carmike Cinemas Inc	CKEC	Seacor Hldgs Inc	CKH
+Checkpoint Sys Inc	CKP	Cke Restaurants Inc	CKR
+Ckx Inc	CKXE	Colgate Palmolive Co	CL
+Clarcor Inc	CLC	Collectors Universe	CLCT
+Cloud Peak Energy Inc	CLD	Clinical Data Inc Ne	CLDA
+Celldex Therapeutics In	CLDX	Cliffs Natural Resource	CLF
+Center Finl Corp Cal	CLFC	Clearfield Inc	CLFD
+Clean Harbors Inc	CLH	Mack Cali Rlty Corp	CLI
+Calamos Asset Mgmt I	CLMS	Calumet Specialty Pr	CLMT
+Clean Energy Fuels Corp	CLNE	Colony Finl Inc	CLNY
+Colonial Pptys Tr	CLP	Continental Resources I	CLR
+Clearone Communicati	CLRO	Clarient Inc	CLRT
+Celsion Corporation	CLSN	Town Sports Intl Hld	CLUB
+Clearwater Paper Corp	CLW	Clearwire Corp New	CLWR
+Clorox Co	CLX	Comerica Inc	CMA
+Commercial Metals Co	CMC	Columbus Mckinnon Co	CMCO
+Comcast Corp New	CMCSA	Cme Group Inc	CME
+Chipotle Mexican Gri	CMG	Cummins Engine Inc	CMI
+Cumulus Media Inc	CMLS	Cantel Inc	CMN
+Capstead Mtg Corp	CMO	Compass Minerals Int	CMP
+Casual Male Retail Grp	CMRG	Cms Energy Corp	CMS
+Core Matls Corp	CMT	Comtech Telecommunic	CMTL
+Cna Finl Corp	CNA	Colonial Bancgroup I	CNB.Z
+Center Bancorp Inc	CNBC	Century Bancorp Inc	CNBK.A
+Centene Corp Del	CNC	Cinemark Holdings Inc	CNK
+Cleco Corp New	CNL	Conolog Corp	CNLG
+Conmed Corp	CNMD	Conseco Inc	CNO
+Centerpoint Energy I	CNP	Concur Technologies	CNQR
+Cohen & Steers Inc	CNS	Consolidated Comm Hl	CNSL
+Century Casinos Inc	CNTY	Continucare Corp	CNU
+Convera Corp	CNVR	Con-Way Inc	CNW
+Consol Energy Inc	CNX	Conexant Systems Inc	CNXT
+Coachmen Inds Inc	COA	Cobra Electrs Corp	COBR
+Cobiz Inc	COBZ	Corinthian Colleges	COCO
+Capital One Finl Cor	COF	Cabot Oil & Gas Corp	COG
+Cogent Inc	COGT	Coach Inc	COH
+Cohen & Co Inc	COHN	Coherent Inc	COHR
+Cohu Inc	COHU	Coca Cola Bottlng Co	COKE
+Rockwell Collins Inc	COL	Columbia Bkg Sys Inc	COLB
+Columbia Sportswear	COLM	3com Corp	COMS
+Comverge Inc	COMV	Conns Inc	CONN
+Cooper Cos Inc	COO	Majesco Hldgs Inc	COOL
+Conocophillips	COP	Copytele Inc	COPY
+Core Mark Holding Co	CORE	Corus Bankshares Inc	CORS
+Corcept Therapeutics	CORT	Cortex Pharmaceutica	CORX
+Cosi Inc	COSI	Costco Whsl Corp New	COST
+Cover-All Technologi	COVR	Campbell Soup Co	CPB
+Community Cap Corp S	CPBK	Caraco Pharmaceutica	CPD
+Callon Pete Co Del	CPE	Cpex Pharmaceuticals In	CPEX
+Central Pac Finl Cor	CPF	Cepheid Inc	CPHD
+Cpi International In	CPII	Cumberland Pharmaceutic	CPIX
+Chesapeake Utils Cor	CPK	California Pizza Kit	CPKI
+Capella Education Co	CPLA	Capital Product Partner	CPLP
+Calpine Corp	CPN	Copano Energy L L C	CPNO
+Corn Prods Intl Inc	CPO	Copart Inc	CPRT
+Catalyst Pharm Partn	CPRX	Computer Programs &	CPSI
+Consumer Portfolio S	CPSS	Capstone Turbine Cor	CPST
+Camden Ppty Tr	CPT	Conceptus Inc	CPTS
+Cost Plus Inc Calif	CPWM	Compuware Corp	CPWR
+Complete Production	CPX	Cpi Corp	CPY
+Chiquita Brands Intl	CQB	Cheniere Energy Partner	CQP
+Crane Co	CR	Celera Corp	CRA
+Cra Intl Inc	CRAI	Cray Inc	CRAY
+Citizens Bkg Corp Mi	CRBC	Chromcraft Revington	CRC
+Crawford & Co	CRD.B	Cardica Inc	CRDC
+Ceradyne Inc	CRDN	Care Investment Trust I	CRE
+Credo Pete Corp	CRED	Cree Inc	CREE
+Crescent Finl Corp	CRFN	Craftmade Intl Inc	CRFT
+Carter Hldgs Inc	CRI	Curis Inc	CRIS
+Comstock Res Inc	CRK	Charles Riv Labs Int	CRL
+Salesforce Com Inc	CRM	Crm Holdings Ltd	CRMH
+Americas Car Mart In	CRMT	Cornell Corrections	CRN
+Crocs Inc	CROX	Carbo Ceramics Inc	CRR
+Courier Corp	CRRC	Carpenter Technology	CRS
+Cross Timbers Rty Tr	CRT	Cornerstone Therapeutic	CRTX
+Cirrus Logic Corp	CRUS	Coast Distr Sys	CRV
+Corvel Corp	CRVL	Crown Media Hldgs In	CRWN
+Combinatorx Inc	CRXX	Cryolife Inc	CRY
+Carrizo Oil & Co Inc	CRZO	Cogdell Spencer Inc	CSA
+Citizens South Bkg C	CSBC	Clifton Svgs Bancorp	CSBK
+Computer Sciences Co	CSC	Cascade Microtech In	CSCD
+Cisco Sys Inc	CSCO	Cardiac Science Corp	CSCX
+Capitalsource Inc	CSE	Centerstate Bks Fla	CSFL
+Costar Group Inc	CSGP	Csg Sys Intl Inc	CSGS
+Cash Amer Invts Inc	CSH	Cardiovascular Sys Inc	CSII
+Carlisle Corp	CSL	Csp Inc	CSPI
+Css Inds Inc	CSS	Coinstar Inc	CSTR
+Capital Sr Living Co	CSU	Carriage Svcs Inc	CSV
+Csx Corp	CSX	Capital Trust Inc Md	CT
+Cintas Corp	CTAS	Cooper Tire & Rubr	CTB
+Community Tr Bancorp	CTBI	City Bk Lynnwood Was	CTBK
+Constant Contact Inc	CTCT	Citadel Broadcasting	CTDB
+Computer Task Group	CTGX	Charles & Colvard Lt	CTHR
+Cti Industries Corp	CTIB	Cell Therapeutics Inc	CTIC
+Centurytel Inc	CTL	Consolidated Tomoka	CTO
+Citi Trends Inc	CTRN	Cts Corp	CTS
+Cognizant Technology	CTSH	Competitive Technolo	CTT
+Commscope Inc	CTV	Conn Wtr Svc Inc	CTWS
+Citrix Sys Inc	CTXS	Citizens First Banco	CTZN
+Cubic Corp	CUB	Neuralstem Inc	CUR
+Cutera Inc	CUTR	Cousins Pptys Inc	CUZ
+Central Vt Pub Svc	CV	Covanta Hldg Corp	CVA
+Cvb Finl Corp	CVBF	Cablevision Sys Corp	CVC
+Cavco Inds Inc Del	CVCO	Central Valley Cmnty	CVCY
+Covance Inc	CVD	Convergys Corp	CVG
+Commercial Veh Group	CVGI	Calavo Growers Inc	CVGW
+Coventry Health Care	CVH	Cvr Energy Inc	CVI
+Community Valley Ban	CVLL	Commvault Systems In	CVLT
+Codorus Vy Bancorp I	CVLY	Cel-Sci Corp	CVM
+Cenveo Inc	CVO	Cvs Corp	CVS
+Covenant Trans Inc	CVTI	Cpi Aerostructures I	CVU
+Cvd Equip Corp	CVV	Chevron Corp	CVX
+Curtiss Wright Corp	CW	Commonwealth Bankshs	CWBS
+Williams Clayton Ene	CWEI	Cowlitz Bancorp Wash	CWLZ
+Casella Waste Sys In	CWST	California Wtr Svc G	CWT
+Coldwater Creek Inc	CWTR	Cnx Gas Corp	CXG
+Cardium Therapeutics	CXM	Concho Res Inc	CXO
+Crimson Exploration	CXPO	Crexus Invt Corp	CXS
+Corrections Corp Ame	CXW	Cypress Semiconducto	CY
+Cyanotech Corp	CYAN	Cyberoptics Corp	CYBE
+Cybex Intl Inc	CYBI	Cybersource Corp	CYBS
+Cyberonics Inc	CYBX	Cyclacel Pharmaceuti	CYCC
+Community Health Sys	CYH	Cymer Inc	CYMI
+City Natl Corp	CYN	Cynosure Inc	CYNO
+Cypress Biosciences	CYPB	Cypress Sharpridge Invt	CYS
+Cytec Inds Inc	CYT	Cytokinetics Inc	CYTK
+Cytrx Corp	CYTR	Cytori Therapeutics	CYTX
+Citizens & Northn Co	CZNC	Dominion Res Inc Va	D
+Data I O Corp	DAIO	Daktronics Inc	DAKT
+Delta Air Lines Inc Del	DAL	Dana Holding Corp	DAN
+Darling Intl Inc	DAR	Dara Biosciences Inc	DARA
+Datatrak Intl Inc	DATA	Famous Daves Amer In	DAVE
+Diebold Inc	DBD	Double Eagle Pete&Mn	DBLE
+Dress Barn Inc	DBRN	Double-Take Software	DBTK
+Dialysis Corp Amer	DCAI	Donaldson Inc	DCI
+Ducommun Inc Del	DCO	Dime Cmnty Bancorp I	DCOM
+Dyncorp Intl Inc	DCP	Dct Industrial Trust	DCT
+Delcath Sys Inc	DCTH	Du Pont E I De Nemou	DD
+Scolr Inc	DDD	Deltathree Com Inc	DDDC
+Dover Downs Gaming &	DDE	Ddi Corp	DDIC
+Dynamex Inc	DDMX	Developers Diversifi	DDR
+Diedrich Coffee Inc	DDRX	Dillards Inc	DDS
+Deere & Co	DE	Dearborn Bancorp Inc	DEAR
+Deckers Outdoor Corp	DECK	Douglas Emmett Inc	DEI
+Deltic Timber Corp	DEL	Dell Inc	DELL
+Dennys Corp	DENN	Duncan Energy Partne	DEP
+Depomed Inc	DEPO	Destination Maternity C	DEST
+Dean Foods Co New	DF	Delphi Finl Group In	DFG
+Deerfield Capital Corp	DFR	Discover Finl Svcs	DFS
+Dupont Fabros Technolog	DFT	Barry R G Corp Ohio	DFZ
+Dollar Gen Corp New	DG	Delta Nat Gas Inc	DGAS
+Digitalglobe Inc	DGI	Donegal Group Inc	DGIC.A
+Digi Intl Inc	DGII	Dg Fastchannel Inc	DGIT
+Digital Ally Inc	DGLY	Dgse Companies Inc	DGSE
+Quest Diagnostics In	DGX	Diamondhead Casino C	DHCC
+D R Horton Inc	DHI	Diamond Hill Investm	DHIL
+Danaher Corp	DHR	Dht Maritime Inc	DHT
+Dice Hldgs Inc	DHX	Ediets Com Inc	DIET
+Digital Angel Corp New	DIGA	Dineequity Inc	DIN
+Rewards Network Inc	DINE	Diodes Inc	DIOD
+Disney Walt Prodtns	DIS	Discovery Communicatns	DISC.A
+Dish Network Corp	DISH	Image Entmt Inc	DISK
+Amcon Distrg Co	DIT	Ditech Networks Inc	DITC
+Divx Inc	DIVX	Delek Us Hldgs Inc	DK
+Dicks Sporting Goods	DKS	Delta Apparel Inc	DLA
+Dolby Laboratories I	DLB	Delia's Inc New	DLIA
+Dollar Finl Corp	DLLR	Del Monte Foods Co	DLM
+Digital Rlty Tr Inc	DLR	Dollar Tree Inc	DLTR
+De Luxe Check Printe	DLX	Dolan Media Co	DM
+Demandtec Inc	DMAN	Document Sec Sys Inc	DMC
+Dorchester Minerals	DMLP	Diamond Foods Inc	DMND
+Digimarc Corp New	DMRC	Dun & Bradstreet Cor	DNB
+Danvers Bancorp Inc	DNBK	Dendreon Corp	DNDN
+Dune Energy Inc	DNE	Dionex Corp	DNEX
+Denbury Res Inc	DNR	Diamond Offshore Dri	DO
+Dole Food Co Inc New	DOLE	Dorman Products Inc	DORM
+Dover Corp	DOV	Dow Chem Co	DOW
+Dpl Inc	DPL	Dcp Midstream Partne	DPM
+Dr Pepper Snapple Group	DPS	Delta Pete Corp	DPTR
+Digital Pwr Corp	DPW	Dominos Pizza Inc	DPZ
+Digigrad Corp	DRAD	Dataram Corp	DRAM
+Dresser-Rand Group I	DRC	Dynamics Resh Corp	DRCO
+Duke Realty Corp.	DRE	Diamondrock Hospital	DRH
+Darden Restaurants I	DRI	Digital Riv Inc	DRIV
+Dreams Inc	DRJ	Doral Finl Corp	DRL
+Dril-Quip Inc	DRQ	Durect Corp	DRRX
+Derma Sciences Inc	DSCI	Drugstore Com Inc	DSCM
+Discovery Laboratori	DSCO	Dsp Group Inc	DSPG
+Dst Sys Inc Del	DST	Daystar Technologies	DSTI
+Dsw Inc	DSW	Dte Energy Co	DTE
+Dollar Thrifty Autom	DTG	Datalink Corp	DTLK
+Diamond Mgmt & Techn	DTPI	Dts Inc	DTSI
+Directv	DTV	Auckwall-Alto Stores	DUCK
+Duff & Phelps Corp New	DUF	Duke Energy Corp New	DUK
+Dusa Pharmaceuticals	DUSA	Devry Inc Del	DV
+Davita Inc	DVA	Dynavax Technologies	DVAX
+Dover Motorsports In	DVD	Devon Energy Corp	DVN
+Cal Dive Intl Inc De	DVR	Drew Inds Inc	DW
+Dreamworks Animation	DWA	Datawatch Corp	DWCH
+Design Within Reach	DWRI	Dawson Geophysical	DWSN
+Dynex Cap Inc	DX	Dexcom Inc	DXCM
+Dxp Enterprises Inc	DXPE	Daxor Corp	DXR
+Dixie Group Inc	DXYN	Dycom Inds Inc	DY
+Dyax Corp	DYAX	Dynacq Healthcare In	DYII
+Dynegy Inc Del	DYN	Dynatronics Corp	DYNT
+Encore Acquisition C	EAC	American Defense Sys In	EAG
+Hearx Ltd	EAR	Brinker Intl Inc	EAT
+Ebay Inc	EBAY	Ennis Business Forms	EBF
+Bauer Eddie Hldgs In	EBHI	Ebix Com Inc	EBIX
+Emergent Biosolution	EBS	Meridian Interstat Banc	EBSB
+Enterprise Bancorp I	EBTC	Encore Bancshares Inc	EBTX
+Echo Global Logistics I	ECHO	Ecolab Inc	ECL
+Eclipsys Corp	ECLP	Energyconnect Group Inc	ECNG
+American Ecology Cor	ECOL	Encore Cap Group Inc	ECPG
+Consolidated Edison	ED	Edac Technologies Co	EDAC
+Edci Hldgs Inc	EDCI	Empire Dist Elec Co	EDE
+Edgar Online Inc	EDGR	Edgewater Technology	EDGW
+Education Mgmt Corp New	EDMC	Education Rlty Tr In	EDR
+Educational Dev Corp	EDUC	El Paso Elec Co	EE
+Evergreen Energy Inc	EEE	Euronet Svcs Inc	EEFT
+Ecology & Environmen	EEI	Enbridge Energy Part	EEP
+Enbridge Energy Mana	EEQ	Electronics For Imag	EFII
+Efj Inc	EFJI	Energy Focus Inc	EFOI
+Enterprise Finl Svcs	EFSC	Equifax Inc	EFX
+Energy Inc Mont	EGAS	Eagle Bancorp Inc Md	EGBN
+8x8 Inc New	EGHT	Eagle Bulk Shipping	EGLE
+Electroglas Inc	EGLQ	Energen Corp	EGN
+Nic Inc	EGOV	Eastgroup Ppty Inc	EGP
+Elixir Gaming Technolog	EGT	Vaalco Energy Inc	EGY
+Ehealth Inc	EHTH	Employers Holdings I	EIG
+Eastern Ins Hldgs In	EIHI	Edison Intl	EIX
+Eastman Kodak Co	EK	Lauder Estee Cos Inc	EL
+Endologix Inc	ELGX	Ems Technologies Inc	ELMG
+Earthlink Inc	ELNK	Echelon Corp	ELON
+Eloyalty Corp	ELOY	Electro Rent Corp	ELRC
+Equity Lifestyle Ppt	ELS	Electro-Sensors Inc	ELSE
+Elite Pharmaceutical	ELTP	Emulex Corp	ELX
+Callaway Golf Co	ELY	Emdeon Inc	EM
+Emagin Corp	EMAN	E M C Corp Mass	EMC
+Emc Ins Group Inc	EMCI	Emcor Group Inc	EME
+Emisphere Technologi	EMIS	Emcore Corp	EMKR
+Eastern Co	EML	Emmis Communications	EMMS
+Eastman Chem Co	EMN	Emerson Elec Co	EMR
+Emergency Medical Sv	EMS	Enova Systems Inc	ENA
+Encorium Group Inc	ENCO	Endeavour Intl Corp	END
+Endo Pharmaceuticals	ENDP	Energy Conver Device	ENER
+Englobal Corp	ENG	Endurance Specialty	ENH
+Entremed Inc	ENMD	Enernoc Inc	ENOC
+Encore Energy Partners	ENP	Energizer Hldgs Inc	ENR
+Enersys	ENS	Ensign Group Inc	ENSG
+Entegris Inc	ENTG	Entorian Technologies I	ENTN
+Entropic Communications	ENTR	Endwave Corp	ENWV
+Enzo Biochem Inc	ENZ	Enzon Pharmaceutic	ENZN
+Eog Res Inc	EOG	Eon Communications Corp	EONC
+El Paso Corp	EP	Ambassadors Group In	EPAX
+Bottomline Tech Del	EPAY	El Paso Pipeline Partne	EPB
+Epicept Corp	EPCT.D	Enterprise Prods Par	EPD
+Enterprise Gp Hldgs	EPE	Edge Pete Corp Del	EPEX
+Environmental Pwr Co	EPG	Epoch Holding Corp	EPHC
+Epicor Software Corp	EPIC	Epiq Sys Inc	EPIQ
+Epix Pharmaceuticals	EPIX	Energy Partners Ltd	EPL
+Evolution Petroleum	EPM	Entertainment Pptys	EPR
+Equinix Inc	EQIX	Equity Residential P	EQR
+Eqt Corp	EQT	Equity One	EQY
+Eresearchtechnology	ERES	Erie Indty Co	ERIE
+Energy Recovery Inc	ERII	Eagle Rock Energy Pa	EROC
+Electronic Arts	ERTS	Energysolutions Inc	ES
+Esb Finl Corp	ESBF	Elmira Svgs Bk Fsb N	ESBK
+Emeritus Corp	ESC	Escalade Inc	ESCA
+Evans&Sutherland Com	ESCC	Esco Technologies In	ESE
+Enstar Group Limited	ESGR	Itt Educational Serv	ESI
+Easylink Services Intl	ESIC	Electro Scientific	ESIO
+Esterline Technologi	ESL	Evergreen Solar Inc	ESLR
+Escalon Med Corp	ESMC	Espey Mfg & Electrs	ESP
+Express Scripts Inc	ESRX	Essex Ppty Tr Inc	ESS
+Essa Bancorp Inc	ESSA	Elecsys Corp	ESYS
+Energy Transfer Equi	ETE	E-Trade Finl Grp	ETFC
+Ethan Allen Interior	ETH	Entercom Communicati	ETM
+Eaton Corp	ETN	Energy Transfer Prtn	ETP
+Entergy Corp New	ETR	Enteromedics Inc	ETRM
+Eurobancshares Inc	EUBK	Eaton Vance Corp	EV
+Evans Bancorp Inc	EVBN	Eastern Va Bankshare	EVBS
+Entravision Communic	EVC	Ev Energy Partners L	EVEP
+Evolving Sys Inc	EVOL	Evercore Partners In	EVR
+Ev3 Inc	EVVV	Edwards Lifesciences	EW
+East West Bancorp In	EWBC	Exactech Inc	EXAC
+Exar Corp	EXAR	Exact Sciences Corp	EXAS
+Corporate Executive	EXBD	Exelon Corp	EXC
+Exelixis Inc	EXEL	Exterran Hldgs Inc	EXH
+Exterran Partners Lp	EXLP	Exlservice Holdings	EXLS
+Excel Maritime Carri	EXM	Eagle Materials Inc	EXP
+Expeditors Intl Wash	EXPD	Expedia Inc Del	EXPE
+Exponet Inc	EXPO	Extra Space Storage	EXR
+Extreme Networks Inc	EXTR	Ezcorp Inc	EZPW
+Ford Mtr Co Del	F	First Acceptance Cor	FAC
+Physicians Formula H	FACE	Facet Biotech Corp	FACT
+First Amern Finl Cor	FAF	Falconstor Software	FALC
+Farmer Bros Co	FARM	Faro Technologies In	FARO
+Fastenal Co	FAST	Flagstar Bancorp Inc	FBC
+Fbr Capital Markets Cor	FBCM	Firstbank Corp Mich	FBMI
+Furniture Brands Int	FBN	First Bancorp N C	FBNC
+First Bancorp P R	FBP	Franklin Covey Co	FC
+First California Financ	FCAL	First Cmnty Bancshar	FCBC
+Forest City Enterpri	FCE.A	Fuelcell Energy Inc	FCEL
+First Comwlth Finl P	FCF	Firstcity Finl Corp	FCFC
+First Cash Finl Svcs	FCFS	Felcor Lodging Tr In	FCH
+Fti Consulting Inc	FCN	First Citizens Bancs	FCNC.A
+Fairchild Semiconduc	FCS	First Capital Bancor	FCVA
+Freeport-Mcmoran Cop	FCX	First Ctzns Banc Cor	FCZA
+First Defiance Finl	FDEF	Federal Mogul Corp	FDML
+Family Dlr Stores In	FDO	Fresh Del Monte Prod	FDP
+Factset Resh Sys Inc	FDS	Fedex Corp	FDX
+First Energy Corp	FE	Fei Co	FEIC
+Frequency Electrs In	FEIM	Franklin Elec Inc	FELE
+Franklin Electr Publ	FEP	First Finl Bancorp	FFBC
+First Fed Bancshares	FFBH	First Financial Hldg	FFCH
+Frozen Food Expr Ind	FFEX	Fbl Finl Group Inc	FFG
+Flushing Finl Corp	FFIC	First Finl Bankshare	FFIN
+F5 Networks Inc	FFIV	Farmers Cap Bk Corp	FFKT
+First Financial Northwe	FFNW	First Fed Bankshares	FFSX
+Ferrellgas Partners	FGP	Fgx International Hldgs	FGXI
+Female Health Co	FHCO	First Horizon Natl C	FHN
+Fair Isaac Corp	FICO	Financial Fed Corp	FIF
+Fortress Investment	FIG	Fortress Intl Group Inc	FIGI
+Federated Invs Inc P	FII	Finish Line Inc	FINL
+Sourcefire Inc	FIRE	Fidelity Natl Inform	FIS
+Financial Instns Inc	FISI	Fiserv Inc	FISV
+Health Fitness Corp	FIT	Fifth Third Bancorp	FITB
+Comfort Sys Usa Inc	FIX	National Beverage Co	FIZZ
+Foot Locker Inc	FL	Flanders Corp	FLDR
+First Long Is Corp	FLIC	Flir Sys Inc	FLIR
+Full House Resorts I	FLL	Flowers Foods Inc	FLO
+Flow Intl Corp	FLOW	Fluor Corp	FLR
+Flowserve Corp	FLS	1 800 Flowers Com	FLWS
+Flexsteel Inds Inc	FLXS	First Mariner Bancor	FMAR
+First Midwest Bancor	FMBI	F M C Corp	FMC
+First Marblehead Cor	FMD	Firstmerit Corp	FMER
+First M & F Corp	FMFC	First Mercury Financ	FMR
+Fnb Corp	FNB	F N B Corp N C	FNBN
+Fortunet Inc	FNET	Fidelity Natl Title	FNF
+First Niagara Finl G	FNFG	First Bancorp Inc Me	FNLC
+Finlay Enterprises I	FNLQ	Fannie Mae	FNM
+First Natl Bancshare	FNSC	Finisar Corp	FNSR
+Fonix Corp Del	FNXC	Fortune Brands Inc	FO
+Ferro Corp	FOE	Fredericks Hollywood Gr	FOH
+Amicus Therapeutics Inc	FOLD	Fonar Corp	FONR
+Vaughan Foods Inc	FOOD	Forestar Real Estate Gr	FOR
+Forward Inds Inc N Y	FORD	Formfactor Inc	FORM
+Forrester Resh Inc	FORR	Fossil Inc	FOSL
+1st Pacific Bank	FPBN	First Pl Finl Corp	FPFC
+Fpic Ins Group Inc	FPIC	Fpl Group Inc	FPL
+First Potomac Rlty T	FPO	Fieldpoint Petroleum	FPP
+First Pactrust Banco	FPTB	First Industrial Rea	FR
+Republic First Banco	FRBK	Friedman Inds Inc	FRD
+Freddie Mac	FRE	Freds Inc	FRED
+First Regional Banco	FRGB	Furmanite Corporation	FRM
+First Merchants Corp	FRME	Fairpoint Communicat	FRP
+Force Protection Inc	FRPT	Frischs Restaurants	FRS
+Federal Realty Invt	FRT	Forest Labs Inc	FRX
+Reddy Ice Hldgs Inc	FRZ	First South Bancorp	FSBK
+Fisher Cos Inc	FSCI	First Sec Group Inc	FSGI
+Fsi Intl Inc	FSII	First Solar Inc	FSLR
+First St Bancorporat	FSNM	Fusion Telecomm Intl	FSNN
+Franklin Street Ppty	FSP	Flagstone Reinsurance H	FSR
+Federal Signal Corp	FSS	Forest Oil Corp	FST
+First St Finl Corp F	FSTF	Foster L B Co	FSTR
+Fuel Sys Solutions I	FSYS	Frontier Finl Corp Wash	FTBK
+Fuel-Tech N V	FTEK	Fmc Technologies Inc	FTI
+Flotek Inds Inc Del	FTK	Fortinet Inc	FTNT
+Frontier Oil Corp	FTO	Frontier Communications	FTR
+Fibertower Corp	FTWR	Smf Energy Corporation	FUEL
+Fuller H B Co	FUL	Fulton Finl Corp Pa	FULT
+Cedar Fair L P	FUN	First Utd Corp	FUNC
+Winthrop Rlty Tr	FUR	Five Star Quality Ca	FVE
+Forward Air Corp	FWRD	Fox Chase Bancorp	FXCB
+Fx Energy Inc	FXEN	Fx Real Estate	FXRE
+Genpact Limited	G	German Amern Bancorp	GABC
+Gaiam Inc	GAIA	Great Atl & Pac Tea	GAP
+Nicor Inc	GAS	Greatbatch Inc	GB
+Glacier Bancorp Inc	GBCI	Grubb & Ellis Co	GBE
+Green Builders Inc	GBH	Gamco Investors Inc	GBL
+Guaranty Bancorp Del	GBNK	Greenbrier Cos Inc	GBX
+Global Cash Access H	GCA	Granite City Food & Bre	GCFB.D
+Gannett Inc	GCI	Genesco Inc	GCO
+Globecomm Systems In	GCOM	General Dynamics Cor	GD
+Gardner Denver Machy	GDI	Goodrich Pete Corp	GDP
+Guardian Technologie	GDTI	General Elec Co	GE
+Greif Inc	GEF	Genesis Energy L P	GEL
+Gencor Inds Inc	GENC	Genzyme Corp	GENZ
+Geo Group Inc	GEO	Georesources Inc	GEOI
+Geoeye Inc	GEOY	Geron Corp	GERN
+Guess Inc	GES	Gaylord Entmt Co New	GET
+Genta Inc	GETA	Griffon Corp	GFF
+Guaranty Finl Group Inc	GFG	Gfi Group Inc	GFIG
+Georgia Gulf Corp	GGC	Graco Inc	GGG
+Gigoptix Inc	GGOX	General Growth Pptys	GGP
+Genomic Health Inc	GHDX	Greenhill & Co Inc	GHL
+Graham Corp	GHM	Gulfstream Intl Group I	GIA
+Gulf Island Fabricat	GIFI	Giga Tronics Inc	GIGA
+G-Iii Apparel Group	GIII	Gilead Sciences Inc	GILD
+General Mls Inc	GIS	Gramercy Cap Corp	GKK
+G & K Svcs Inc	GKSR	Global Crossing Ltd	GLBC
+Global Inds Ltd	GLBL	Golden Enterprises	GLDC
+Great Lakes Dredge &	GLDD	Gulfmark Offshore In	GLF
+Glg Partners Inc	GLG	Globaloptions Group Inc	GLOI
+Global Partners Lp	GLP	Greenlight Capital Re L	GLRE
+Glatfelter P H Co	GLT	Glu Mobile Inc	GLUU
+Corning Inc	GLW	Green Mtn Coffee Roa	GMCR
+Gamestop Corp New	GME	Geomet Inc Del	GMET
+General Moly Inc	GMO	General Maritime Corp N	GMR
+Gatx Corp	GMT	Gametech Internation	GMTC
+Gander Mountain Co	GMTN	Gmx Res Inc	GMXR
+General Communicatio	GNCM.A	Global Traffic Netwo	GNET
+Global Energy Hldgs Gro	GNH	Genco Shipping & Tra	GNK
+Gentex Corp	GNTX	Genvec Inc	GNVC
+Genworth Finl Inc	GNW	Geokinetics Inc	GOK
+Golfsmith Intl Holdi	GOLF	Gladstone Coml Corp	GOOD
+Google Inc	GOOG	Geopharma Inc	GORX
+Government Pptys Income	GOV	Genuine Parts Co	GPC
+Group 1 Automotive I	GPI	Gaming Partners Intl	GPIC
+Graphic Packaging Hldg	GPK	Global Pmts Inc	GPN
+Gulfport Energy Corp	GPOR	Geopetro Resources C	GPR
+Green Plains Renewab	GPRE	Gen-Probe Inc New	GPRO
+Gap Inc	GPS	Gp Strategies Corp	GPX
+Goodrich B F Co	GR	Grace W R & Co Del N	GRA
+Bank Granite Falls N	GRAN	Gerber Scientific In	GRB
+Gorman Rupp Co	GRC	Greenhunter Energy Inc	GRH
+Griffin Ld & Nurseri	GRIF	Graymark Healthcare Inc	GRMH
+Garmin Ltd	GRMN	Greene Cnty Bancshar	GRNB
+U S Global Invs Inc	GROW	Glimcher Rlty Tr	GRT
+Goldman Sachs Group	GS	Globalstar Inc	GSAT
+Globalscape Inc	GSB	Great Southn Bancorp	GSBC
+Gsi Commerce Inc	GSIC	Gsi Technology	GSIT
+Globe Specialty Metals	GSM	Gastar Expl Ltd	GST
+Gasco Energy Inc	GSX	Goodyear Tire & Rubr	GT
+Golf Tr Amer Inc	GTA	Gtc Biotherapeutics Inc	GTCB
+Global Defense Tech Sys	GTEC	Cytomedix Inc	GTF
+Graftech Intl Ltd	GTI	Gentiva Health Servi	GTIV
+Chart Inds Inc	GTLS	Gray Television Inc	GTN
+Triple-S Mgmt Corp	GTS	Gtsi Corp	GTSI
+Gtx Inc Del	GTXI	Getty Rlty Corp New	GTY
+Guidance Software In	GUID	Goldfield Corp	GV
+Granite Constr Inc	GVA	Gse Sys Inc	GVP
+Genesee & Wyo Inc	GWR	Grainger W W Inc	GWW
+Genoptix Inc	GXDX	Great Plains Energy	GXP
+Gencorp Inc	GY	Gymboree Corp	GYMB
+Hyatt Hotels Corp	H	Hawaiian Holdings In	HA
+Haemonetics Corp	HAE	Hanmi Finl Corp	HAFC
+Hain Celestial Group	HAIN	Halliburton Co	HAL
+Hallmark Finl Svcs I	HALL	Halozyme Therapeutic	HALO
+Hansen Nat Corp	HANS	Harman Intl Inds Inc	HAR
+Harleysville Svgs Fi	HARL	Hasbro Bradley Inc	HAS
+Hastings Entmt Inc	HAST	Hauppague Digital In	HAUP
+Haynes International	HAYN	Huntington Bancshare	HBAN
+Home Bancorp Inc	HBCP	Henry Bros Electroni	HBE
+Hancock Hldg Co	HBHC	Hanesbrands Inc	HBI
+Harvard Bioscience I	HBIO	Horizon Bancorp Ind	HBNC
+Hampden Bancorp Inc	HBNK	Hudson City Bancorp	HCBK
+Hcc Ins Hldgs Inc	HCC	Heritage Crystal Clean	HCCI
+Homeowners Choice Inc	HCII	Hackett Group Inc	HCKT
+Health Care Reit Inc	HCN	Hcp Inc	HCP
+Health Care Group In	HCSG	Home Depot Inc	HD
+Home Diagnostics Inc	HDIX	Hardinge Inc	HDNG
+Hudson Technologies	HDSN	Hyperdynamics Corp	HDY
+Hawaiian Elec Indust	HE	Hemispherx Biopharma	HEB
+H & E Equipment Serv	HEES	Heico Corp New	HEI.A
+Helen Of Troy Corp L	HELE	Heritage Oaks Bancor	HEOP
+Holly Energy Partner	HEP	Hollis-Eden Pharmace	HEPH
+Hercules Offshore In	HERO	Hess Corp	HES
+Ener1 Inc	HEV	Hewitt Assocs Inc	HEW
+Healthwarehouse.Com	HEWA	Hff Inc	HF
+Heritage Finl Corp W	HFWA	Hhgregg Inc	HGG
+Harleysville Group I	HGIC	Hanger Orthopedic Gr	HGR
+Health Grades Inc	HGRD	Human Genome Science	HGSI
+Hugoton Rty Tr Tex	HGT	Hooper Holmes Inc	HH
+Hudson Highland Grou	HHGP	Harte-Hanks Inc	HHS
+Hillenbrand Inc	HI	Hibbett Sports Inc	HIBB
+Hartford Finl Svcs G	HIG	Hill International I	HIL
+Dot Hill Sys Corp	HILL	Hi-Tech Pharmacal In	HITK
+Hittite Microwave Co	HITT	Highwoods Pptys Inc	HIW
+Petrohawk Energy Cor	HK	Hkn Inc	HKN
+Hecla Mng Co	HL	Helicos Biosciences Cor	HLCS
+Herbalife Ltd	HLF	Harmonic Lightwaves	HLIT
+Healthsouth Corp	HLS	Helix Energy Solutio	HLX
+Heelys Inc	HLYS	Health Mgmt Assoc In	HMA
+Home Pptys Inc	HME	Horace Mann Educator	HMN
+Hmn Finl Inc	HMNF	Hampton Roads Banksh	HMPR
+Hms Hldgs Corp	HMSY	Hana Biosciences Inc	HNAB
+Harleysville Natl Pa	HNBC	Hni Corp	HNI
+Harvest Natural Reso	HNR	Hansen Medical Inc	HNSN
+Health Net Inc.	HNT	Heinz H J Co	HNZ
+Holly Corp	HOC	Hooker Furniture Cor	HOFT
+Harley Davidson Inc	HOG	Hoku Scientific Inc	HOKU
+Hollywood Media Corp	HOLL	Hologic Inc	HOLX
+Home Bancshares Inc	HOMB	Home Fed Bancorp Inc Md	HOME
+Homeland Sec Cap Corp	HOMS	Honeywell Intl Inc	HON
+Craft Brewers Alliance	HOOK	Hornbeck Offshore Sv	HOS
+Starwood Hotels&Reso	HOT	Hot Topic Inc	HOTT
+Hovnanian Enterprise	HOV	Helmerich & Payne In	HP
+Harris Interactive I	HPOL	Hewlett Packard Co	HPQ
+Hospitality Pptys Tr	HPT	Heartland Pmt Sys In	HPY
+Hq Sustainable Marit	HQS	Healthcare Rlty Tr	HR
+Block H & R Inc	HRB	Hill Rom Hldgs Inc	HRC
+Harbinger Group Inc	HRG	Hormel Geo A & Co	HRL
+Herley Inds Inc	HRLY	Hrpt Pptys Tr	HRP
+Harris Corp Del	HRS	Arrhythmia Resh Tech	HRT
+Horizon Lines Inc	HRZ	Horizon Finl Corp Wa	HRZB
+Healthspring Inc	HS	Harsco Corp	HSC
+Schein Henry Inc	HSIC	Heidrick & Struggles	HSII
+Heska Corp	HSKA	Hsn Inc	HSNI
+Hospira Inc	HSP	Host Hotels & Resorts	HST
+Healthstream Inc	HSTM	Hsw International Inc	HSWI
+Hershey Foods Corp	HSY	Hersha Hospitality T	HT
+Heritage Commerce Co	HTBK	Hutchinson Technolog	HTCH
+Hickory Tech Corp	HTCO	Hilltop Holdings Inc	HTH
+Heartland Express In	HTLD	Heartland Finl Usa I	HTLF
+U S Geothermal Inc	HTM	Healthtronics Inc	HTRN
+Hatteras Finl Corp	HTS	Hertz Global Holding	HTZ
+Hubbell Inc	HUB.B	Hub Group Inc	HUBG
+Hughes Communication	HUGH	Humana Inc	HUM
+Huntsman Corp	HUN	Hurco Mfg Inc	HURC
+Huron Consulting Gro	HURN	Houston Amern Energy	HUSA
+Haverty Furniture In	HVT	Headwaters Inc	HW
+Healthways Inc	HWAY	Hawthorn Bancshares Inc	HWBK
+Houston Wire & Cable	HWCC	Harrington West Finl	HWFG
+Hallwood Group Inc	HWG	Hawk Corp	HWK
+Hawkins Inc	HWKN	Hexcel Corp New	HXL
+Hypercom Corp	HYC	Hythiam Inc	HYTM
+Marinemax Inc	HZO	International Assets	IAAC
+Iac Interactivecorp	IACI	Ia Global Inc	IAO
+Integra Lifesciences	IART	Intervest Bancshares	IBCA
+Independent Bk Corp	IBCP	Interline Brands Inc	IBI
+Iberiabank Corp	IBKC	Interactive Brokers Gro	IBKR
+Intl Business Mchn	IBM	Integra Bk Corp	IBNK
+International Bncshr	IBOC	Icad Inc	ICAD
+Intercontinentalexch	ICE	Icf Intl Inc	ICFI
+Internet Cap Group I	ICGE	Icagen Inc	ICGN
+Investors Cap Hldgs	ICH	International Coal G	ICO
+Ico Hldgs Inc	ICOC	Ico Global Comm Hldg	ICOG
+Iconix Brand Group I	ICON	Icop Digital Inc	ICOP
+Ict Group Inc	ICTG	Icu Med Inc	ICUI
+Icx Technologies Inc	ICXT	L-1 Identity Solutio	ID
+Idacorp Inc	IDA	Interactive Data Cor	IDC
+Interdigital Inc	IDCC	Idenix Pharmaceutica	IDIX
+Intelli-Check Inc	IDN	Idera Pharmaceutical	IDRA
+Industrial Svcs Amer	IDSA	I D Systems Inc	IDSY
+Idt Corp	IDT	Integrated Device Te	IDTI
+Idexx Labs Inc	IDXX	Iec Electrs Corp New	IEC
+Icahn Enterprises Lp	IEP	Integrated Electrica	IESC
+Idex Corp	IEX	Irwin Finl Corp	IFC
+International Flav&F	IFF	Infologix Inc	IFLG
+Infosonics Corp	IFON	Interface Flooring	IFSI.A
+Igi Inc	IG	Igo Inc	IGOI
+International Game	IGT	Igate Capital Corp	IGTE
+Independence Hldg Co	IHC	Ihs Inc	IHS
+Imergent Inc	IIG	Information Services	III
+Insteel Inds Inc	IIIN	Interval Leisure Group	IILG
+Intricon Corp	IIN	Ii Vi Inc	IIVI
+Ikanos Communication	IKAN	Interleukin Genetics	ILI
+Illumina Inc	ILMN	Ingram Micro Inc	IM
+Inverness Med Innova	IMA	Immunogen Inc	IMGN
+Ingles Mkts Inc	IMKT.A	Immtech Intl Inc	IMM
+Immersion Corp	IMMR	Immunomedics Inc	IMMU
+Imation Corp	IMN	Implant Sciences Cor	IMSC
+Intermec Inc	IN	Internap Network Svc	INAP
+Indiana Community Banco	INCB	Incyte Pharmaceutica	INCY
+Independent Bk Cp Ma	INDB	United Amer Indemnit	INDM
+Internet Brands Inc	INET	Informatica Corp	INFA
+Infinity Pharmaceuti	INFI	Infinera Corporation	INFN
+Inhibitex Inc	INHX	Interactive Intellig	ININ
+Integramed Amer Inc	INMD	Inovio Biomedical Co	INO
+Innotrac Corp	INOC	Innodata Corp	INOD
+Interphase Corp	INPH	Intelligent Sys Corp	INS
+Insmed Inc	INSM	Infospace Inc	INSP
+Insituform Technolog	INSU	Insite Vision Inc	INSV
+World Fuel Svcs Corp	INT	Intel Corp	INTC
+Intest Corp	INTT	Intuit	INTU
+Intersections Inc	INTX	Inuvo Inc	INUV
+Innovative Card Tech	INVC	Scm Microsystems Inc	INVE
+Innerworkings Inc	INWK	Inx Inc	INXI
+Ion Geophysical Corp	IO	International Paper	IP
+Inter Parfums Inc	IPAR	Ipass Inc	IPAS
+Infinity Ppty & Cas	IPCC	Ipc The Hospitalist Co	IPCM
+Interpublic Group Co	IPG	Ipg Photonics Corp	IPGP
+Innophos Holdings In	IPHS	Intrepid Potash Inc	IPI
+Imperial Inds Inc	IPII	Imperial Sugar Co Ne	IPSU
+Iparty Corp	IPT	Irobot Corp	IRBT
+Inland Real Estate C	IRC	Investors Real Estat	IRET
+International Rectif	IRF	Iris Intl Inc	IRIS
+Iridex Corp	IRIX	Iron Mtn Inc Del	IRM
+Irvine Sensors Corp	IRSN	Investors Bancorp In	ISBC
+International Speedw	ISCA	International Shipho	ISH
+Insignia Sys Inc	ISIG	Intersil Hldg Corp	ISIL
+Isis Pharmaceuticals	ISIS	Isle Of Capris Casin	ISLE
+Isilon Sys Inc	ISLN	Image Sensing Sys In	ISNS
+Inspire Pharmaceutic	ISPH	Isoray Inc	ISR
+Intuitive Surgical I	ISRG	Innovative Solutions	ISSC
+Integrated Silicon S	ISSI	Ista Pharmaceuticals	ISTA
+Integral Sys Inc Md	ISYS	Gartner Group Inc Ne	IT
+Itc Hldgs Corp	ITC	Investment Technolog	ITG
+Iteris Inc	ITI	Investors Title Co	ITIC
+Intermune Inc	ITMN	Itron Inc	ITRI
+Itt Inds Inc Ind	ITT	Illinois Tool Wks In	ITW
+Infogroup Inc	IUSA	Valuerich Inc	IVA
+Intevac Inc	IVAC	Invacare Corp	IVC
+Ivax Diagnostics Inc	IVD	Invesco Mortgage Capita	IVR
+Invesco Ltd	IVZ	Iowa Telecomm Servic	IWA
+Ixys Corp	IXYS	Jack In The Box Inc	JACK
+Jaco Electrs Inc	JACO	Jarden Corp	JAH
+Jakks Pac Inc	JAKK	Jo-Ann Stores Inc	JAS
+Javelin Pharmaceutic	JAV	J Alexander Corp	JAX
+Jazz Pharmaceuticals In	JAZZ	Hunt J B Trans Svcs	JBHT
+Jabil Circuit Inc	JBL	Jetblue Awys Corp	JBLU
+Sanfilippo John B &	JBSS	John Bean Technologies	JBT
+J Crew Group Inc	JCG	Johnson Ctls Inc	JCI
+J2 Global Communicat	JCOM	Jc Penney Co	JCP
+Communications Sys	JCS	Jda Software Group I	JDAS
+Jds Uniphase Corp	JDSU	Jacobs Engr Group In	JEC
+Jefferies Group Inc	JEF	Jennifer Convs Inc	JEN
+Jer Invt Tr Inc	JERT	Jefferson Bancshares	JFBI
+J & J Snack Foods Co	JJSF	Henry Jack & Assoc I	JKHY
+Jesup & Lamont Inc	JLI	Jones Lang Lasalle I	JLL
+Jmar Inds Inc	JMAR	Jamba Inc	JMBA
+Jmp Group Inc	JMP	Johnson & Johnson	JNJ
+Juniper Networks	JNPR	Janus Cap Group Inc	JNS
+Jones Apparel Group	JNY	General Employment	JOB
+St Joe Corp	JOE	Joes Jeans Inc	JOEZ
+Jos A Bank Clothiers	JOSB	Johnson Outdoors Inc	JOUT
+Joy Global Inc	JOYG	J P Morgan Chase & C	JPM
+James River Coal Co	JRCC	Journal Communicatio	JRN
+Jones Soda Co	JSDA	Jackson Hewitt Tax S	JTX
+Coffee Hldgs Inc	JVA	Wiley John & Sons In	JW.A
+Nordstrom Inc	JWN	Kellogg Co	K
+Arcadia Res Inc	KAD	Kadant Inc	KAI
+Kaiser Aluminum Corp	KALU	Kaman Corp	KAMN
+Kar Auction Svcs Inc	KAR	Kimball Intl Inc	KBAL.B
+Kb Home	KBH	Kbr Inc	KBR
+Kbw Inc	KBW	Kinetic Concepts Inc	KCI
+Kansas City Life Ins	KCLI	Cole Kenneth Prodtns	KCP
+4 Kids Entmt Inc	KDE	Kaydon Corp	KDN
+Key Energy Svcs Inc	KEG	Keithley Instrs Inc	KEI
+Kelly Svcs Inc	KELY.A	Kewaunee Scientific	KEQU
+Keryx Biopharmaceuti	KERX	Kirby Expl Co.	KEX
+Keycorp	KEY	Keynote Sys Inc	KEYN
+K Fed Bancorp	KFED	Kentucky First Fed B	KFFB
+Kkr Financial Hldgs Llc	KFN	Kforce Com Inc	KFRC
+Kraft Foods Inc	KFT	Korn Ferry Intl	KFY
+King Pharmaceuticals	KG	Kid Brands Inc	KID
+Kimco Realty Corp	KIM	Kirklands Inc	KIRK
+Krispy Kreme Doughnu	KKD	Kla-Tencor Corp	KLAC
+Kulicke & Soffa Inds	KLIC	Kimberly Clark Corp	KMB
+Kmg-B Inc	KMGB	Kinder Morgan Energy	KMP
+Kinder Morgan Manage	KMR	Kennametal Inc	KMT
+Carmax Inc	KMX	Kindred Healthcare I	KND
+Kendle International	KNDL	Knoll Inc	KNL
+Knology Inc	KNOL	Knot Inc	KNOT
+Kensey Nash Corp	KNSY	Knight Transn Inc	KNX
+Kenexa Corp	KNXA	Coca Cola Co	KO
+Kodiak Oil & Gas Cor	KOG	Kona Grill Inc	KONA
+Thermogenesis Corp	KOOL	Koppers Holdings Inc	KOP
+Kopin Corp	KOPN	Kroger Co	KR
+Kraton Performance Poly	KRA	Kilroy Rlty Corp	KRC
+Kite Rlty Group Tr	KRG	Kearny Finl Corp	KRNY
+Kronos Worldwide Inc	KRO	Kapstone Paper & Pac	KS
+K Sea Transn Partner	KSP	Kohls Corp	KSS
+Kansas City Southn	KSU	Ksw Inc	KSW
+K-Swiss Inc	KSWS	Key Tronics Corp	KTCC
+Key Technology Inc	KTEC	K Tron Intl Inc	KTII
+Kratos Defense & Sec So	KTOS	K V Pharmaceutical C	KV.A
+Kvh Inds Inc	KVHI	Quicksilver Resource	KWK
+Quaker Chem Corp	KWR	Loews Corp	L
+Labranche & Co Inc	LAB	Louisiana Bancorp Inc	LABC
+Multi Color Corp	LABL	Lakes Gaming Inc	LACO
+Lithia Mtrs Inc	LAD	Lakeland Inds Inc	LAKE
+Lamar Advertising Co	LAMR	Lancaster Colony Cor	LANC
+Magma Design Automat	LAVA	Law Enforcement Asso	LAWE
+Lawson Prods Inc	LAWS	Layne Inc	LAYN
+Lazard Ltd	LAZ	La Barge Inc	LB
+Lakeland Bancorp Inc	LBAI	Liberty Global Inc	LBTYA
+Libbey Inc	LBY	Liberty Media Cap	LCAP.A
+Lca-Vision Inc	LCAV	U S Airways Group In	LCC
+Lannet Inc	LCI	Lasercard Corp	LCRD
+Lecroy Corp	LCRY	Lifetime Brands Inc	LCUT
+Leadis Technology In	LDIS	Lydall Inc	LDL
+Landauer Inc	LDR	Ladish Inc	LDSH
+Leap Wireless Intl I	LEAP	Lincoln Elec Hldgs I	LECO
+Lectec Corp	LECT	Market Leader Inc	LEDR
+Lee Enterprises Inc	LEE	Leggett & Platt Inc	LEG
+Legacy Bancorp Inc	LEGC	Lucas Energy Inc	LEI
+Lennar Corp- Cl A	LEN	Lenox Group Inc	LENQ
+Leapfrog Enterprises	LF	Littelfuse Inc	LFUS
+Laclede Group Inc	LG	Legacy Reserves Lp	LGCY
+Lodgian Inc	LGN	Ligand Pharmaceutica	LGND
+Laboratory Corp Amer	LH	Lhc Group Inc	LHCG
+Lasalle Hotel Pptys	LHO	Life Technologies Corp	LIFE
+Lennox Intl Inc	LII	Lime Energy Co	LIME
+Lincoln Edl Svcs Cor	LINC	Linn Energy Llc	LINE
+Liberty Media Int	LINT.A	Fidelity Southn Corp	LION
+Lionbridge Technolog	LIOX	Liz Claiborne	LIZ
+La Jolla Pharmaceuti	LJPC	Lakeland Finl Corp	LKFN
+Lkq Corp	LKQX	Lumber Liquidators Hldg	LL
+L-3 Communications H	LLL	Limelight Networks Inc	LLNW
+Linear Technology Co	LLTC	Eli Lilly & Co	LLY
+Legg Mason Inc	LM	Lemaitre Vascular In	LMAT
+Lmi Aerospace Inc	LMIA	Luminex Corp Del	LMNX
+Lockheed Martin Corp	LMT	Lnb Bancorp Inc	LNBB
+Lincoln Natl Corp In	LNC	Lance Inc	LNCE
+Lincare Hldgs Inc	LNCR	Landec Corp	LNDC
+Lodgenet Entmt Corp	LNET	Cheniere Energy Inc	LNG
+Lindsay Mfg Co	LNN	Alliant Corp	LNT
+Geeknet Inc	LNUX	Landrys Restaurants	LNY
+Lorillard Inc	LO	Local Com Corp	LOCM
+Logic Devices Inc	LOGC	Logmein Inc	LOGM
+Lo-Jack Corp	LOJN	Looksmart Ltd	LOOK
+Loopnet Inc	LOOP	Grand Canyon Ed Inc	LOPE
+Loral Space & Commun	LORL	Spark Networks Inc	LOV
+Lowes Cos Inc	LOW	Lapolla Inds Inc	LPAD
+Life Partners Holdin	LPHI	Lifepoint Hospitals	LPNT
+Lender Processing Svcs	LPS	Liveperson Inc	LPSN
+Lightpath Technologi	LPTH	Louisiana Pac Corp	LPX
+Liquidity Services I	LQDT	Lam Resh Corp	LRCX
+K12 Inc	LRN	Liberty Ppty Tr	LRY
+Lattice Semiconducto	LSCC	Capital Lease Fdg In	LSE
+Lsi Logic Corp	LSI	Landstar Sys Inc	LSTR
+Liberty Media Lib Star	LSTZ.A	Ltc Pptys Inc	LTC
+Limited Brands Inc	LTD	Life Time Fitness In	LTM
+Learning Tree Intl I	LTRE	Lantronix Inc	LTRX
+Ladenburg Thalman Fi	LTS	Ltx-Credence Corp	LTXC
+Lubys Inc	LUB	Lufkin Inds Inc	LUFK
+Leucadia Natl Co	LUK	Luna Innovations	LUNA
+Southwest Airls Co	LUV	Steinway Musical Ins	LVB
+Level 3 Communicatio	LVLT	Las Vegas Sands Corp	LVS
+Livewire Mobile Inc	LVWR	Lifeway Foods Inc	LWAY
+Lawson Software Inc	LWSN	Lexmark Intl Inc.	LXK
+Lexington Corp Pptys	LXP	Lexicon Genetics Inc	LXRX
+Lsb Inds Inc	LXU	Lyris Inc	LYRI
+Lsi Inds Inc	LYTS	Live Nation Inc	LYV
+Lubrizol Corp	LZ	La Z Boy Inc	LZB
+Emergent Group Inc N	LZR	Macys Inc.	M
+Mastercard Inc	MA	Mid-Amer Apt Cmntys	MAA
+Macerich Co	MAC	Mace Sec Intl Inc	MACE
+Magnetek Inc	MAG	Mako Surgical Corp	MAKO
+Pc Mall Inc	MALL	Maine & Maritimes Co	MAM
+Manpower Inc	MAN	Manhattan Assocs Inc	MANH
+Mantech Intl Corp	MANT	Map Pharmaceuticals Inc	MAPP
+Marriott Intl Inc Ne	MAR	Masco Corp	MAS
+Material Sciences Co	MASC	Masimo Corp	MASI
+Mattel Inc	MAT	Martek Biosciences C	MATK
+Matthews Intl Corp	MATW	Maxygen Inc	MAXY
+Mb Financial Inc New	MBFI	Midwest Banc Holding	MBHI
+Mbia Inc	MBI	Metabolix Inc	MBLX
+Multiband Corp	MBND	Mercantile Bancorp I	MBR
+Middleburg Financial	MBRG	Middlebrook Pharmaceuti	MBRK
+Mbt Finl Corp	MBTF	Merchants Bkshrs New	MBVT
+Mercantile Bank Corp	MBWM	Macatawa Bk Corp	MCBC
+Monarch Community Ba	MCBF	Metrocorp Bancshares	MCBI
+Mediacom Communicati	MCCC	Mcdonalds Corp	MCD
+Contango Oil & Gas C	MCF	Microchip Technology	MCHP
+Marchex Inc	MCHX	Mckesson Hboc Inc	MCK
+Moodys Corp	MCO	Monarch Casino & Res	MCRI
+Micrel Inc	MCRL	Micros Sys Inc	MCRS
+Marcus Corp	MCS	Micro Component Tech	MCTI
+Mercury Genl Corp Ne	MCY	Mednax Inc	MD
+Medassets Inc	MDAS	M D C Corp Colo	MDC
+Medical Action Ind I	MDCI	Medicines Co	MDCO
+Metropolitan Health	MDF	Mhi Hospitality Corp	MDH
+Meredith Corp	MDP	Mcdermott Intl	MDR
+Allscripts Healthcar	MDRX	Midas Group Inc	MDS
+Medidata Solutions Inc	MDSO	Medtronic Inc	MDT
+Medcath Corp	MDTH	Medis Technologies L	MDTL
+Mdu Res Group Inc	MDU	Medivation Inc	MDVN
+Mariner Energy Inc	ME	Metalico Inc	MEA
+Meade Instruments Corp	MEAD	Measurement Specialt	MEAS
+Medifast Inc	MED	Medquist Inc	MEDQ
+Mediware Information	MEDW	Massey Energy Corp	MEE
+Media Gen Inc	MEG	Methode Electrs Inc	MEI
+Electro Optical Scie	MELA	Memsic Inc	MEMS
+Micrus Endovascular	MEND	Mentor Graphics Corp	MENT
+Merriman Curhan Ford Gr	MERR	Merix Corp	MERX
+Mesa Air Group Inc	MESA	Metlife Inc	MET
+Metro Bancorp Inc Pa	METR	Mf Global Hldgs Ltd	MF
+Mfa Mtg Invts Inc	MFA	Maidenform Brands In	MFB
+Mcafee Inc	MFE	Microfinancial Inc	MFI
+Multi Fineline Elect	MFLX	Mfri Inc	MFRI
+Mutualfirst Finl Inc	MFSF	M & F Worldwide Corp	MFW
+Mistras Group Inc	MG	Multimedia Games Inc	MGAM
+Mge Energy Inc	MGEE	Moneygram Intl Inc	MGI
+Magellan Health Svcs	MGLN	Mgm Mirage Inc	MGM
+Mines Mgmt Co	MGN	Mgp Ingredients Inc	MGPI
+Mcgrath Rentcorp	MGRC	Manhattan Pharmaceut	MHAN
+Morgans Hotel Group	MHGC	Mastech Holdings Inc	MHH
+Mohawk Inds Inc	MHK	Maiden Holdings Ltd	MHLD
+M/I Homes	MHO	Mcgraw Hill Inc	MHP
+Magnum Hunter Res Corp	MHR	Medco Health Solutio	MHS
+Marshall & Ilsley Co	MI	Macquarie Infrastruc	MIC
+Middleby Corp	MIDD	Meadowbrook Ins Grou	MIG
+Mercer Ins Group Inc	MIGP	Millipore Corp	MIL
+Mitcham Inds Inc	MIND	Mobile Mini	MINI
+Molecular Insight Ph	MIPI	Mips Technologies In	MIPS
+Mirant Corp New	MIR	Micromet Inc	MITI
+Mead Johnson Nutrition	MJN	Mccormick & Co Inc	MKC
+Markel Corp	MKL	Mks Instrument Inc	MKSI
+Marketaxess Hldgs In	MKTX	Mechanical Technology I	MKTY
+Mesa Labs Inc	MLAB	Miller Herman Inc	MLHR
+Mueller Inds Inc	MLI	Martin Marietta Matl	MLM
+Moduslink Global Soluti	MLNK	Maui Ld & Pineapple	MLP
+Miller Inds Inc Tenn	MLR	Milestone Scientific	MLSS
+Marsh & Mclennan Cos	MMC	Metalline Mining Inc	MMG
+Martin Midstream Prt	MMLP	3m Co	MMM
+Magellan Midstream	MMP	Meruelo Maddux Prope	MMPI.Q
+Mcmoran Exploration	MMR	Mmr Information Sys Inc	MMRF
+Maximus Inc	MMS	Merit Med Sys Inc	MMSI
+Makemusic Inc	MMUS	Mcclatchy Newspapers	MNI
+Mannkind Corp	MNKD	Medicinova Inc	MNOV
+Monarch Financial Ho	MNRK	Monro Muffler Brake	MNRO
+Monmouth Rl Est In S	MNRT.A	Momenta Pharmaceutic	MNTA
+Mtr Gaming Group Inc	MNTG	Manitek Intl Inc	MNTX
+Altria Group Inc	MO	Command Sec Corp	MOC
+Mocon Inc	MOCO	Modine Mfg Co	MOD
+Midwestone Finl Group I	MOFG	Moog Inc 'a'	MOG.A
+Molina Healthcare In	MOH	Molex Inc	MOLX
+Monsanto Co New	MON	Morningstar Inc	MORN
+Mosaic Co	MOS	Mosys Inc	MOSY
+Motorola Inc	MOT	Movado Group Inc	MOV
+Move Inc Com	MOVE	Motorcar Parts & Acc	MPAA
+Mod Pac Corp	MPAC	Magellan Pete Corp	MPET
+Maguire Pptys Inc	MPG	Met Pro Corp	MPR
+Medical Pptys Trust	MPW	Monolithic Pwr Sys I	MPWR
+Marine Prods Corp	MPX	Mercury Computer Sys	MRCY
+Merge Healthcare Inc	MRGE	Montpelier Re Holdin	MRH
+Merck & Co Inc New	MRK	Marlin Business Svcs	MRLN
+Merrrimac Inds Inc	MRM.Z	Mdrna Inc	MRNA
+Marathon Oil Corp	MRO	Mortons Restaurant G	MRT
+Marten Trans Ltd	MRTN	Mrv Communications I	MRVC
+Marvell Technology G	MRVL	Medicis Pharmaceutic	MRX
+Morgan Stanley	MS	Mine Safety Applianc	MSA
+Microsemiconductor	MSCC	Middlesex Water Co	MSEX
+Mainsource Financial	MSFG	Microsoft Corp	MSFT
+Media Sciences Intl	MSII	Midsouth Bancorp	MSL
+Msc Indl Direct Inc	MSM	Emerson Radio Corp	MSN
+Martha Stewart Livin	MSO	Misonix Inc	MSON
+Mindspeed Technologies	MSPD	Mccormick & Schmicks	MSSR
+Microstrategy Inc	MSTR	Mission West Pptys I	MSW
+M & T Bk Corp	MTB	Mettler Toledo Inter	MTD
+Mannatech Inc	MTEX	Mgic Invt Corp Wis	MTG
+Meritage Corp	MTH	Vail Resorts Inc	MTN
+Medtox Scientific In	MTOX	Matrix Svc Co	MTRX
+Mts Sys Corp	MTSC	Mattson Technology I	MTSN
+Manitowoc Inc	MTW	Minerals Technologie	MTX
+Matrixx Initiatives	MTXX	Mastec Inc	MTZ
+Micron Technology In	MU	Murphy Oil Corp	MUR
+Microvision Inc Wash	MVIS	Mens Wearhouse Inc	MW
+Mueller Wtr Prods In	MWA	Markwest Energy Part	MWE
+Mwi Veterinary Suppl	MWIV	Meadwestvaco Corp	MWV
+Monster Worldwide In	MWW	Msci Inc	MXB
+Mexco Energy Corp	MXC	Max Re Capital Ltd H	MXGL
+Maxim Integrated Pro	MXIM	Maxwell Technologies	MXWL
+Myers Inds Inc	MYE	Myriad Genetics Inc	MYGN
+Mylan Labs Inc	MYL	Myr Group Inc Del	MYRG
+Myriad Pharmaceuticals	MYRX	Netsuite Inc	N
+Nabi Biopharmaceutic	NABI	National Dentex Corp	NADX
+Nash Finch Co	NAFC	Natural Alternatives	NAII
+Newalliance Bancshar	NAL	Nanometrics Inc	NANO
+Nanophase Tchnologie	NANX	Nara Bancorp Inc	NARA
+Nasb Finl Inc	NASB	North Amern Scientific	NASM
+Nathans Famous Inc N	NATH	National Instrs Corp	NATI
+National Interstate	NATL	Navistar Intl Corp N	NAV
+Navigators Group Inc	NAVG	Navisite Inc	NAVI
+Navarre Corp	NAVR	Newbridge Bancorp	NBBC
+Nova Biosource Fuels	NBF	Neurocrine Bioscienc	NBIX
+Noble Energy Inc	NBL	Nabors Industries Lt	NBR
+Neostem Inc	NBS	Nbt Bancorp Inc	NBTB
+Novabay Pharmaceuticals	NBY	Nacco Inds Inc	NC
+Navigant Consulting	NCI	Nci Inc	NCIT
+National Cinemedia I	NCMI	National Coal Corp	NCOC
+Ncr Corp New	NCR	Nci Building Sys Inc	NCS
+Newcastle Invt Corp	NCT	Nasdaq Stock Martket	NDAQ
+99 Cents Only Stores	NDN	Nordson Corp	NDSN
+New England Bancshar	NEBS	Newmont Mng Corp Hld	NEM
+Network Engines Inc	NENG	Neogen Corp	NEOG
+Neomedia Technologie	NEOM	Neoprobe Corp	NEOP
+Nephros Inc	NEPH	Nestor Inc	NEST
+Netlogic Microsystem	NETL	Newmarket Corp	NEU
+Newport Corp	NEWP	Newstar Financial In	NEWS
+Newtek Cap Inc	NEWT	Nexmed Inc	NEXM
+Nexxus Lighting Inc	NEXS	Northfield Bancorp Inc	NFBK
+National Fuel Gas Co	NFG	Netflix Com Inc	NFLX
+National Finl Partne	NFP	Newfield Expl Co	NFX
+North Amern Galvanzn	NGA	Ngas Resources Inc	NGAS
+New Generation Biofuels	NGBF	Nanogen Inc	NGEN
+Targa Resources Part	NGLS	Natural Gas Services	NGS
+Neurogesx Inc	NGSX	National Healthcare	NHC
+National Health Invs	NHI	Nationwide Health Pp	NHP
+New Hampshire Thrift	NHTB	Nighthawk Radiology	NHWK
+Nisource Inc	NI	Nii Hldgs Inc	NIHD
+Blue Nile Inc	NILE	Knight Capital Group	NITE
+New Jersey Res	NJR	Nike Inc	NKE
+National Bankshares	NKSH	Nektar Therapeutics	NKTR
+Nl Inds Inc	NL	Nalco Holding Compan	NLC
+Nobel Learning Cmnty	NLCI	Nautilus Group Inc	NLS
+Netlist Inc	NLST	Nile Therapeutics Inc	NLTX
+Annaly Mtg Mgmt Inc	NLY	Navios Maritime Partner	NMM
+Numerex Corp N Y	NMRX	Nmt Med Inc	NMTI
+Nn Inc	NNBR	Nelnet Inc	NNI
+National Retail Prop	NNN	Northrop Corp	NOC
+Northern Oil & Gas Inc	NOG	Micronetics Wireless	NOIZ
+New Frontier Media I	NOOF	National-Oilwell Inc	NOV
+Novamed Eyecare Inc	NOVA	North Valley Bancorp	NOVB
+Novell Inc	NOVL	Neenah Paper Inc	NP
+Natl Penn Bancshares	NPBC	National Presto Inds	NPK
+Inplay Technologies	NPLA	Enpro Inds Inc	NPO
+Nps Pharmaceuticals	NPSP	Newpark Res Inc	NR
+National Research Co	NRCI	Northstar Rlty Fin C	NRF
+Nrg Energy Inc	NRG	Inergy Hldgs L P	NRGP
+Inergy L P	NRGY	Northrim Bancorp Inc	NRIM
+Natural Resource Par	NRP	Nustar Energy Lp	NS
+Norfolk Southern Cor	NSC	Northern Sts Finl Co	NSFC
+Nustar Gp Holdings Llc	NSH	Insight Enterprises	NSIT
+National Semiconduct	NSM	Nanosphere Inc	NSPH
+Neustar Inc	NSR	Napco Sec Sys Inc	NSSC
+Nstar	NST	Netapp Inc	NTAP
+Netscout Sys Inc	NTCT	Netgear Inc	NTGR
+Northern Tech Intl C	NTIC	Neurobiologial Tech Inc	NTII
+Ntelos Hldgs Corp	NTLS	Ntn Communications I	NTN
+Nutri Sys Inc New	NTRI	Northern Tr Corp	NTRS
+National Technical	NTSC	Netsol Technologies	NTWK
+Nbty Inc	NTY	Northeast Utils	NU
+Nuance Communication	NUAN	Nucor Corp	NUE
+Nu Horizons Electrs	NUHC	Neurometrix Inc	NURO
+Nu Skin Enterprises	NUS	Nutraceutical Intl C	NUTR
+Nuvasive Inc	NUVA	Novavax Inc	NVAX
+Nvidia Corp	NVDA	Novadel Pharma Inc	NVDL
+Nv Energy Inc	NVE	Nve Corp	NVEC
+N-Viro Intl Corp	NVIC	Novellus Sys Inc	NVLS
+Nvr Inc	NVR	Novatel Wireless Inc	NVTL
+Northwest Bancshares In	NWBI	Northwest Biotherapeuti	NWBO
+Northwestern Corp	NWE	Norwood Financial Co	NWFL
+Network Equip Techno	NWK	Newell Rubbermaid In	NWL
+National Westn Lfe	NWLI	Northwest Nat Gas Co	NWN
+Northwest Pipe Co	NWPX	News Corp Ltd	NWSA
+New York & Co Inc	NWY	Quanex Building Product	NX
+Nexstar Broadcasting	NXST	Nxstage Medical Inc	NXTM
+Nutrition 21 Inc	NXXI	New York Cmnty Banco	NYB
+Nyer Med Group Inc	NYER	Nymagic Inc	NYM
+New York Mtg Tr Inc	NYMT	Empire Resorts Inc	NYNY
+New York Times Co	NYT	Nyse Euronext	NYX
+Realty Income Corp	O	Onebeacon Insurance	OB
+Ocean Bio Chem Inc	OBCI	Owens Corning New	OC
+Optical Cable Corp	OCCF	Oceanfirst Finl Corp	OCFC
+Oclaro Inc	OCLR	Oculus Innovative Sc	OCLS
+Ocwen Finl Corp	OCN	Oceanfreight Inc	OCNF
+Occam Networks Inc	OCNW	Omnicare Inc	OCR
+Oil Dri Corp Amer	ODC	Old Dominion Fght Li	ODFL
+Office Depot Inc	ODP	Odyssey Healthcare I	ODSY
+Orient-Express Hotel	OEH	Orion Energy Systems In	OESX
+Corporate Office Ppt	OFC	Oriental Finl Group	OFG
+Overhill Farms Inc	OFI	Orthofix Intl N V	OFIX
+Omega Flex Inc	OFLX	Oge Energy Corp	OGE
+Oncogenex Pharmaceutica	OGXI	Orleans Homebulders	OHB
+Omega Healthcare Inv	OHI	Owens Ill Inc	OI
+O I Corp	OICO	Oceaneering Intl Inc	OII
+Oil Sts Intl Inc	OIS	Oneok Inc New	OKE
+Oneok Partners Lp	OKS	Southwest Bancorp In	OKSB
+Olin Corp	OLN	One Liberty Fireston	OLP
+Omnicom Group	OMC	Omnicell Inc	OMCL
+Omega Protein Corp	OME	Omeros Corp	OMER
+Odyssey Marine Explo	OMEX	Om Group Inc	OMG
+Owens & Minor Inc Ne	OMI	Omnova Solutions Inc	OMN
+Omni Energy Services	OMNI	Obagi Medical Produc	OMPI
+Officemax Inc Del	OMX	Old Natl Bancp Ind	ONB
+On Semiconductor Cor	ONNN	Onstream Media Corp	ONSM
+On2 Com Inc	ONT	Onvia Com Inc	ONVI
+Onyx Pharmaceuticals	ONXX	Opentable Inc	OPEN
+Opko Health Inc	OPK	Oplink Communication	OPLK
+Opnet Technologies I	OPNT	Old Point Finl Corp	OPOF
+Optelecom Inc	OPTC	Optimer Pharmaceutic	OPTR
+Ocean Pwr Technologies	OPTT	Opentv Corp	OPTV
+Openwave Sys Inc	OPWV	Opexa Therapeutics I	OPXA
+Opnext Inc	OPXT	Ormat Technologies I	ORA
+Orbital Sciences Cor	ORB	Orbcomm Inc	ORBC
+Orbit Intl Corp	ORBT	Online Res & Communi	ORCC
+Orchard Enterprises Inc	ORCD	Orchid Cellmark Inc	ORCH
+Oracle Systems Corp	ORCL	Orexigen Therapeutics I	OREX
+Old Rep Intl Corp	ORI	Oritani Finl Corp	ORIT
+O Reilly Automotive	ORLY	Orion Marine Group Inc	ORN
+Ore Pharmaceutical Hldg	ORXE	Old Second Bancorp I	OSBC
+Oscient Pharmaceutic	OSCI	Overseas Shipholdng	OSG
+Osi Pharmaceuticals	OSIP	Osiris Therapeutics	OSIR
+Osi Systems Inc	OSIS	Oshkosh Truck Corp	OSK
+Osteotech Inc	OSTE	Overstock Com Inc De	OSTK
+Orasure Technologies	OSUR	Otix Global Inc	OTIX
+Otter Tail Corp	OTTR	Outdoor Channel Hldg	OUTD
+Overland Storage Inc	OVRL	Omnivision Technolog	OVTI
+Orbitz Worldwide Inc	OWW	Oxigene Inc	OXGN
+Oxford Inds Inc	OXM	Optionsxpress Hldgs	OXPS
+Occidental Pete Corp	OXY	Oyo Geospace Corp	OYOG
+Och Ziff Cap Mgmt Group	OZM	Bank Of The Ozarks I	OZRK
+Plains All Amern Pip	PAA	Pab Bankshares Inc	PABK
+Pacer Intl Inc Tenn	PACR	Pacwest Bancorp Del	PACW
+Paetec Holding Corp	PAET	Penske Automotive Grp I	PAG
+Palm Inc New	PALM	Panacos Pharmaceutic	PANC
+Universal Display Co	PANL	3par Inc	PAR
+Poniard Pharmaceutic	PARD	Parlux Fragrances In	PARL
+Pepsiamericas Inc	PAS	Patrick Inds Inc	PATK
+Patriot Transn Hldg	PATR	Verifone Hldgs Inc	PAY
+Paychex Inc	PAYX	Pamrapo Bancorp Inc	PBCI
+Peoples United Financia	PBCT	Pepsi-Cola Bottling	PBG
+Prestige Brands Hldg	PBH	Pitney Bowes Inc	PBI
+Porter Bancorp Inc	PBIB	Pressure Biosciences	PBIO
+Prudential Bancorp I	PBIP	Provident New York B	PBNY
+Pep Boys Manny Moe&J	PBY	Paccar Inc	PCAR
+Pacific Cap Bancorp	PCBC	Pacific Continental	PCBK
+Pmc Coml Tr	PCC	P C Connection	PCCC
+Pg&E Corp	PCG	Potlatch Corp New	PCH
+Plum Creek Timber Co	PCL	Priceline Com Inc	PCLN
+Precision Castparts	PCP	Metropcs Communicati	PCS
+Pc-Tel Inc	PCTI	Southern Copper Corp	PCU
+Patriot Coal Corp	PCX	Pharmacyclics Inc	PCYC
+Purecycle Corp	PCYO	Pioneer Drilling Co	PDC
+Patterson Companies	PDCO	Pride Intl Inc Del	PDE
+Pro-Dex Inc Colo	PDEX	Pdf Solutions Inc	PDFS
+Pdg Environmental In	PDGE	Pdi Inc	PDII
+Pdl Biopharma Inc	PDLI	Paradigm Med Inds Inc D	PDMI
+Pyramid Oil Co	PDO	Particle Drilling Te	PDRT
+Pebblebrook Hotel Tr	PEB	Peoples Bk N C	PEBK
+Peoples Bancorp Inc	PEBO	Peets Coffee & Tea I	PEET
+Public Svc Enterpris	PEG	Pegasystems Inc	PEGA
+Pennsylvania Rl Est	PEI	Pacific Ethanol Inc	PEIX
+Penn Natl Gaming Inc	PENN	Penford Corp	PENX
+Pepsico Inc	PEP	Perfumania Hldgs Inc	PERF
+Ellis Perry Intl Inc	PERY	Perma-Fix Environmen	PESI
+Petroleum Dev Corp	PETD	Petsmart Inc	PETM
+Petmed Express Inc	PETS	Prefered Bk Los Ange	PFBC
+Premier Finl Bancorp	PFBI	Peoples Finl Corp Mi	PFBX
+P F Changs China Bis	PFCB	Pfizer Inc	PFE
+Pff Bancorp Inc	PFFB	Principal Financial	PFG
+P&F Inds Inc	PFIN	Provident Finl Svcs	PFS
+Pfsweb Inc	PFSW	Phase Forward Inc	PFWD
+Procter & Gamble Co	PG	Peapack-Gladstone Fi	PGC
+Premiere Global Svcs	PGI	Progress Energy Inc	PGN
+Progenics Pharmaceut	PGNX	Progressive Corp Ohi	PGR
+Pgt Inc	PGTI	Velocity Portfolio Grou	PGV
+Parker Hannifin Corp	PH	Phc Inc Mass	PHC
+Phh Corp	PHH	Palm Harbor Homes	PHHM
+Phi Inc	PHII.K	Pacifichealth Labora	PHLI
+Pulte Homes Corp	PHM	Photomedex Inc	PHMD.D
+Panhandle Royalty Co	PHX	Pico Hldgs Inc	PICO
+Polaris Inds Inc	PII	Pike Elec Corp	PIKE
+Pinnacle Gas Resources	PINN	Pharmathene Inc	PIP
+Pier I Imports Inc	PIR	Piper Jaffray Cos	PJC
+Parker Drilling Co	PKD	Park Electrochemical	PKE
+Packaging Corp Amer	PKG	Perkinelmer Inc	PKI
+Park Ohio Hldgs Corp	PKOH	Procera Networks Inc	PKT
+Parkway Pptys Inc	PKY	Protective Life Corp	PL
+Playboy Enterprises	PLA	Photronic Labs Inc	PLAB
+Plumas Bancorp	PLBC	Childrens Pl Retail	PLCE
+Polycom Inc	PLCM	Plc Sys Inc	PLCS.F
+Prologis Tr	PLD	Presidential Life Co	PLFE
+Pall Corp	PLL	Planar Sys Inc	PLNR
+Preformed Line Prods	PLPC	Plantronics Inc New	PLT
+Plug Power Inc	PLUG	Eplus Inc	PLUS
+Plexus Corp	PLXS	Plx Technology Inc	PLXT
+Philip Morris Intl Inc	PM	Pma Cap Corp	PMAC.A
+Pacific Mercantile B	PMBC	Pharmerica Corp	PMC
+Pmc-Sierra Inc	PMCS	Psychemedics Corp	PMD
+Pmfg Inc	PMFG	Pmi Group Inc	PMI
+Pennymac Mtg Invt Tr	PMT	Parametric Technolog	PMTC
+Palomar Med Technolo	PMTI	Princeton Natl Banco	PNBC
+Patriot Natl Bancorp	PNBK	Pnc Financial Corp	PNC
+Pinnacle Airl Corp	PNCL	Pinnacle Finl Partne	PNFP
+Pinnacle Entmt Inc	PNK	Pnm Res Inc	PNM
+Pennichuck Corp	PNNW	Pentair Inds Inc	PNR
+Panera Bread Co	PNRA	Primeenergy Corp	PNRG
+Pinnacle Data Sys In	PNS	Penson Worldwide Inc	PNSN
+Pinnacle West Cap Co	PNW	Phoenix Cos Inc New	PNX
+Piedmont Nat Gas Inc	PNY	Insulet Corp	PODD
+Polyone Corp	POL	Pepco Holdings Inc.	POM
+Protection One Inc	PONE	Pool Corporation	POOL
+Pope Res Del Ltd Prt	POPE	Portland Gen Elec Co	POR
+Positron Corp	POSC	Power Integrations I	POWI
+Powell Inds Inc	POWL	Powersecure Intl Inc	POWR
+Pozen Inc	POZN	Pacific Premier Banc	PPBI
+Penwest Pharmaceutic	PPCO	Pre Paid Legal Svcs	PPD
+Pharmaceutical Prod	PPDI	Ppg Inds Inc	PPG
+Peregrine Pharmaceutica	PPHM	Ppl Corp	PPL
+Polypore Intl Inc	PPO	Post Pptys Inc	PPS
+Petroquest Energy In	PQ	Proassurance Corp	PRA
+Portfolio Recovery A	PRAA	Perceptron Inc	PRCP
+Partnerre Ltd	PRE	Perficient Inc	PRFT
+Perrigo Co	PRGO	Progress Software Co	PRGS
+Prg-Schultz Internat	PRGX	Park Natl Corp	PRK
+Parkervision Inc	PRKR	Peerless Sys Corp	PRLS
+Primedia Inc	PRM	Pros Holdings Inc	PRO
+Deltek Inc	PROJ	Provident Finl Hldgs	PROV
+Purple Communications I	PRPL	Portec Rail Prods In	PRPX
+Primus Guaranty Ltd	PRS	Providence Svc Corp	PRSC
+Prosperity Bancshare	PRSP	Presstek Inc	PRST
+U.S. Auto Parts Netw	PRTS	Prudential Finl Inc	PRU
+Premierwest Bancorp	PRWT	Par Pharmaceutical C	PRX
+Premier Exibitions I	PRXI	Parexel Intl Corp	PRXL
+Proxim Wireless Corp	PRXM	Public Storage Inc	PSA
+Ps Business Pks Inc	PSB	Pacific State Bancor	PSBC
+Pioneer Southwst Enrg P	PSE	Pericom Semiconducto	PSEM
+Positiveid Corp	PSID	Pricesmart Inc	PSMT
+Collective Brands Inc	PSS	Pss World Med Inc	PSSI
+Pacific Sunwear Cali	PSUN	Psychiatric Solution	PSYS
+Par Technology Corp	PTC	Phoenix Technology L	PTEC
+Pokertek Inc	PTEK	Patterson Uti Energy	PTEN
+Pain Therateutics In	PTIE	Performance Technolo	PTIX
+Palatin Technologies	PTN	Platinum Underwriter	PTP
+Pantry Inc	PTRY	P A M Transn Svcs In	PTSI
+Point 360 New	PTSX	Pactiv Corp	PTV
+Pulaski Finl Corp	PULB	Pure Bioscience	PURE
+Penn Va Corp	PVA	Pvf Capital Corp	PVFC
+Penn Va Gp Hldgs L P	PVG	Phillips Van Heusen	PVH
+Penn Va Resources Pa	PVR	Parkvale Finl Corp	PVSA
+Pervasip Corp	PVSP	Pervasive Software I	PVSW
+Privatebancorp Inc	PVTB	Pittsburgh & W Va Rr	PW
+Powerwave Technologi	PWAV	Power-One Inc	PWER
+Penns Woods Bancorp	PWOD	Quanta Svcs Inc	PWR
+Providence&Worcestr	PWX	Praxair Inc	PX
+Pioneer Nat Res Co	PXD	Phoenix Footwear Gro	PXG
+Pixelworks Inc	PXLW	Plains Expl & Prodtn	PXP
+Payment Data Sys Inc	PYDS	Pzena Investment Mgmt I	PZN
+Papa Johns Intl Inc	PZZA	Pizza Inn Inc New	PZZI
+Qwest Communications	Q	Qad Inc	QADI
+Qualstar Corp	QBAK	Cubic Energy Inc	QBC
+Qc Hldgs Inc	QCCO	Qualcomm Inc	QCOM
+Questor Pharmaceutic	QCOR	Qcr Holdings Inc	QCRH
+Quidel Corp	QDEL	Quadramed Corp	QDHC
+Quest Energy Partners L	QELP	Q E P Inc	QEPC
+Quigley Corp	QGLY	Qlogic Corp	QLGC
+Quality Distr Inc Fl	QLTY	Quantum Group Inc	QNGP
+Quepasa Corp	QPSA	Quest Resource Corp	QRCP
+Quest Software Inc	QSFT	Quality Sys Inc	QSII
+Quantum-Dlt&Storage	QTM	Quantum Fuel Sys Tec	QTWW
+Quicklogic Corp	QUIK	Quixote Corp	QUIX
+Ryder Sys Inc	R	Rite Aid Corp	RAD
+Radiant Systems Inc	RADS	Rae Sys Inc	RAE
+Ralcorp Hldgs Inc Ne	RAH	Reynolds American In	RAI
+Freightcar Amer Inc	RAIL	Ram Energy Resources	RAME
+Rait Invt Tr	RAS	Raven Inds Inc	RAVN
+Rackspace Hosting Inc	RAX	Regal Beloit Corp	RBC
+Republic Bancorp Ky	RBCA.A	Rubicon Technology Inc	RBCN
+Sport Supply Group Inc	RBI	Robbins & Myers Inc	RBN
+Rurban Finl Corp	RBNF	Royal Bancshares Pa	RBPA.A
+Rent A Ctr Inc New	RCII	Rockville Finl Inc	RCKB
+Rocky Brands Inc	RCKY	Royal Caribbean Crui	RCL
+Rcm Technologies Inc	RCMT	Rcn Corp	RCNI
+Rc2 Corp	RCRC	Rowan Cos Inc	RDC
+Ardea Biosciences In	RDEA	Elizabeth Arden Inc	RDEN
+Reading Internationa	RDI	Ruddick Corp	RDK
+Radian Group Inc	RDN	Radnet Inc	RDNT
+Everest Re Group Ltd	RE	Resources Connection	RECN
+Reeds Inc	REED	Research Frontiers C	REFR
+Regency Ctrs Corp	REG	Regeneron Pharmaceut	REGN
+Reis Inc	REIS	Richardson Electrs	RELL
+Reliv Intl Inc	RELV	Rentrak Corp	RENT
+Rpc Inc	RES	Revlon Inc	REV
+Princeton Review Inc	REVU	Resource America Inc	REXI
+Rex Energy Corporation	REXX	Regions Finl Corp	RF
+Rf Inds Ltd	RFIL	Rf Microdevices Inc	RFMD
+Rf Monolithics Inc	RFMI	Reinsurance Group Amer	RGA
+Regal Entmt Group	RGC	Regent Communication	RGCI
+Rgc Res Inc	RGCO	Response Genetics Inc	RGDX
+Repligen Corp	RGEN	Royal Gold Inc	RGLD
+Regenerx Biopharmace	RGN	Regency Energy Partn	RGNC
+Sturm Ruger & Co Inc	RGR	Regis Corp Minn	RGS
+Rehabcare Group Inc	RHB	Robert Half Intl Inc	RHI
+Rhi Entmt Inc Del	RHIE	Red Hat Inc	RHT
+Ricks Cabaret Intl I	RICK	Rigel Pharmaceutical	RIGL
+Rimage Corp	RIMG	Riskmetrics Group Inc	RISK
+Riviera Hldgs Corp	RIV	Republic Awys Hldgs	RJET
+Raymond James Finl I	RJF	Rock-Tenn Co	RKT
+Polo Ralph Lauren Co	RL	Red Lion Hotels Corp	RLH
+Rli Corp	RLI	Renaissance Learning	RLRN
+Rambus Inc Del	RMBS	Rocky Mnt Chocolate	RMCF
+Resmed Inc	RMD	U S Concrete Inc	RMIX
+Rainmaker Systems	RMKR	Rockwell Medical Tec	RMTI
+Ramtron Intl Corp	RMTR	Ready Mix Inc	RMX
+Wireless Ronin Techn	RNIN	Rexahn Pharmaceutica	RNN
+Rightnow Technologie	RNOW	Renaissance Re Hldgs	RNR
+Renasant Corp	RNST	Realnetworks Inc	RNWK
+Rock Of Ages Corp	ROAC	Rockwood Hldgs Inc	ROC
+Gibraltar Inds Inc	ROCK	Rochester Med Corp	ROCM
+Rodman & Renshaw Cap Gp	RODM	Rogers Corp	ROG
+Rotech Healthcare In	ROHI	Radio One Inc	ROIA.K
+Rockwell Automation	ROK	Rollins Inc	ROL
+Rbc Bearings Inc	ROLL	Roma Financial Corp	ROMA
+Rome Bancorp Inc New	ROME	Roper Inds Inc New	ROP
+Rosetta Resources In	ROSE	Ross Stores Inc	ROST
+Rovi Corp	ROVI	Castle Brands Inc	ROX
+Royale Energy Inc	ROYL	Radient Pharmaceuticals	RPC
+Rainier Pac Finl Gro	RPFG	Rpm International	RPM
+Repros Therapeutics	RPRX	Ramco-Gershenson Ppt	RPT
+Raptor Pharmaceutical C	RPTP	Range Res Corp	RRC
+Donnelley R R & Sons	RRD	Red Robin Gourmet Bu	RRGB
+Rri Energy Inc	RRI	Rsc Holdings Inc	RRR
+Reliance Steel & Alu	RS	Rex Stores Corp	RSC
+Res-Care Inc	RSCR	Republic Svcs Inc	RSG
+Radioshack Corp	RSH	Resource Cap Corp	RSO
+Real Goods Solar Inc	RSOL	Rosetta Stone Inc	RST
+Rofin Sinar Technolo	RSTI	Radisys Corp	RSYS
+Ruby Tuesday Inc	RT	Rudolph Technologies	RTEC
+Rti Intl Metals Inc	RTI	Rti Biologics Inc	RTIX
+Rentech Inc	RTK	Raytheon Co	RTN
+Realty Fin Corp	RTYF.Z	Rubios Restaurants I	RUBO
+Rue21 Inc	RUE	Rural / Metro Corp	RURL
+Rush Enterpises Inc	RUSH.A	Ruths Chris Steak Hs	RUTH
+Riverbed Technology	RVBD	Rio Vista Energy Par	RVEP
+Retail Ventures Inc	RVI	Retractable Technolo	RVP
+Riverview Bancorp In	RVSB	Relm Wireless Corp	RWC
+Redwood Tr Inc	RWT	Ims Health Inc	RX
+Rxi Pharmaceuticals Cor	RXII	Ryland Group Inc	RYL
+Rayonier Inc	RYN	Raser Technologies I	RZ
+Sprint Nextel Corp	S	Incontact Inc	SAAS
+Saba Software Inc	SABA	Sanderson Farms Inc	SAFM
+Safety Ins Group Inc	SAFT	Sonic Automotive Inc	SAH
+Saic Inc	SAI	Saia Inc	SAIA
+Salem Communications	SALM	Boston Beer Inc	SAM
+Sun American Bancorp	SAMB	Sanmina Sci Corp	SANM
+Sapient Corp	SAPE	Sandy Spring Bancorp	SASR
+Satcon Technology Co	SATC	Echostar Holding Corp	SATS
+Savannah Bancorp Inc	SAVB	Sba Communications C	SBAC
+Seacoast Bkg Corp Fl	SBCF	Sinclair Broadcast G	SBGI
+Sally Beauty Hldgs I	SBH	Sterling Bancshares	SBIB
+Security Bank Corp	SBKC	Signature Bk New Yor	SBNY
+Santander Bancorp	SBP	Spanish Broadcasting	SBSA
+Southside Bancshares	SBSI	Starbucks Corp	SBUX
+Seabright Insurance	SBX	Scbt Financial Corp	SCBT
+Scana Corp New	SCG	Scholastic Corp	SCHL
+Schnitzer Stl Inds	SCHN	School Specialty Inc	SCHS
+Schwab Charles Cp Ne	SCHW	Service Corp Intl	SCI
+Scientific Learning	SCIL	Socket Mobile Inc	SCKT
+Stepan Chem Co	SCL	Steelcloud Co	SCLD
+Sciclone Pharmaceuti	SCLN	Southern Cmnty Finl	SCMF
+Sucampo Pharmaceuticals	SCMP	Sycamore Networks Inc	SCMR
+Superconductor Techn	SCON	Comscore Inc	SCOR
+Steelcase Inc	SCS	Scansource Inc	SCSC
+Select Comfort Corp	SCSS	Shoe Carnival Inc	SCVL
+Starrett L S Co	SCX	Sandridge Energy Inc	SD
+Soundbite Communication	SDBT	Strategic Diagnostic	SDIX
+Sedona Corp Pa	SDNA	Switch & Data Inc	SDXC
+Spectra Energy Corp	SE	Seachange Intl Inc	SEAC
+Seaboard Corp	SEB	Sealed Air Corp New	SEE
+Spartech Corp	SEH	Sei Corp	SEIC
+Select Med Hldgs Corp	SEM	Seneca Foods Corp Ne	SENE.A
+Senorx Inc	SENO	Spectra Energy Partners	SEP
+Stifel Finl Corp	SF	Smithfield Foods Inc	SFD
+Safeguard Scientifics I	SFE	Stancorp Finl Group	SFG
+Istar Finl Inc	SFI	Ship Finance Interna	SFL
+Shutterfly Inc	SFLY	Spherion Corp	SFN
+Simmons First Nation	SFNC	Successfactors Inc	SFSF
+Swift Energy Co	SFY	Saga Communications Inc	SGA
+Superior Uniform Grp	SGC	Seattle Genetics Inc	SGEN
+Silicon Graphics Intl C	SGI	Schawk Inc	SGK
+Sigmatron Intl Inc	SGMA	Sangamo Biosciences	SGMO
+Scientific Games Cor	SGMS	Star Gas Partners L	SGU
+Stone Energy Corp	SGY	Shaw Group Inc	SHAW
+Shore Bancshares Inc	SHBI	Shenandoah Telecommu	SHEN
+Shuffle Master Inc	SHFL	Sears Hldgs Corp	SHLD
+Schulman A Inc	SHLM	Shiloh Inds Inc	SHLO
+Sunstone Hotel Invs	SHO	Madden Steven Ltd	SHOO
+Shoretel Inc	SHOR	Sauer-Danfoss Inc	SHS
+Sherwin Williams Co	SHW	Sigma Aldrich Corp	SIAL
+Sifco Inds Inc	SIF	Signet Jewelers Limited	SIG
+Siga Pharmaceuticals	SIGA	Selective Ins Group	SIGI
+Sigma Designs Inc	SIGM	Smith Intl Inc	SII
+Silicon Image Inc	SIMG	Sirius Xm Radio Inc	SIRI
+Sirona Dental System	SIRO	Svb Finl Group	SIVB
+Six Flags Inc	SIXF.Q	South Jersey Inds In	SJI
+Smucker J M Co	SJM	Sjw Corp	SJW
+Skilled Healthcare Grou	SKH	Saks Inc	SKS
+Tanger Factory Outle	SKT	Skechers U S A Inc	SKX
+Skyline Corp	SKY	Skyterra Communicati	SKYT
+Skywest Inc	SKYW	Silicon Laboratories	SLAB
+Schlumberger Ltd	SLB	Sara Lee Corp	SLE
+Sl Green Rlty Corp	SLG	Silgan Holdings Inc	SLGN
+Solera Holdings Inc	SLH	Sl Inds Inc	SLI
+Slm Corp	SLM	Simulations Plus Inc	SLP
+Salary Com Inc	SLRY	Selectica Inc	SLTC
+Solta Med Inc	SLTM	Salix Pharmaceutical	SLXP
+St Mary Ld & Expl Co	SM	Symmetry Med Inc	SMA
+Smart Balance Inc	SMBL	Super Micro Computer In	SMCI
+Scotts Co	SMG	Sanders Morris Harri	SMHG
+Smith Midland Corp	SMID	Summit Financial Gro	SMMF
+Symyx Technologies	SMMX	Smart Modular Techno	SMOD
+Standard Mtr Prods	SMP	Stein Mart Inc	SMRT
+Standard Microsystem	SMSC	Smith Micro Software	SMSI
+Smithtown Bancorp In	SMTB	Semtech Corp	SMTC
+Somanetics Corp	SMTS	Snap On Tools Corp	SNA
+Inventure Group Inc	SNAK	Sun Bancorp Inc	SNBC
+Synchronoss Technolo	SNCR	Sandisk Corp	SNDK
+Security Natl Finl C	SNFC.A	Soligenix Inc	SNGX
+Senior Hsg Pptys Tr	SNH	Sun Hydraulics Corp	SNHY
+Scripps Networks Intera	SNI	Sonic Solutions	SNIC
+Senomyx Inc	SNMX	Synopsys Inc	SNPS
+Steak N Shake Co	SNS	Sunesis Pharmaceutic	SNSS
+Sonesta Intl Hotels	SNST.A	Senesco Technologies	SNT
+Synta Pharmaceutical	SNTA	Santarus Inc	SNTS
+Synovus Finl Corp	SNV	Sonicwall Inc	SNWL
+Synnex Corp	SNX	Southern Co	SO
+Solutia Inc	SOA	Sonic Fdry Inc	SOFO
+Gt Solar Intl Inc	SOLR	Somaxon Pharmaceutic	SOMX
+Sonoco Prods Co	SON	Southern Natl Bancor	SONA
+Sonic Corp	SONC	S1 Corporation	SONE
+Sonosite Inc	SONO	Sonus Networks Inc	SONS
+Sparton Corp	SPA	Span Amer Med Sys In	SPAN
+Spartan Mtrs Inc	SPAR	Sport Chalet Inc	SPCH.A
+Sport Chalet Inc	SPCH.B	Speedus Corp	SPDE
+Spectrum Ctl Inc	SPEC	Spherix Inc	SPEX
+Standard Pac Corp Ne	SPF	Simon Ppty Group Inc	SPG
+Suburban Propane Par	SPH	Samaritan Pharmaceutica	SPHC
+Spire Corp	SPIR	Staples Inc	SPLS
+Superior Energy Svcs	SPN	Spectranetics Corp	SPNC
+Spectrum Pharmaceuti	SPPI	Supertel Hospitality	SPPR
+Spirit Aerosystems H	SPR	Smartpros Ltd	SPRO
+Support Com Inc	SPRT	Spansion Inc	SPSN
+Spartan Stores Inc	SPTN	Spx Corp	SPW
+Sunpower Corp	SPWR.A	Sequenom Inc	SQNM
+Standard Register Co	SR	1st Source Corp	SRCE
+Stericycle Inc	SRCL	Surmodics Inc	SRDX
+Sempra Energy	SRE	Stoneridge Inc	SRI
+Srs Labs Inc	SRSL	Startek Inc	SRT
+Sra Intl Inc	SRX	Sunrise Senior Livin	SRZ
+Simpson Manufacturin	SSD	Stage Stores Inc	SSI
+Scripps E W Co Ohio	SSP	Sovran Self Storage	SSS
+Silicon Storage Tech	SSTI	Sunlink Health Syste	SSY
+Stratasys Inc	SSYS	Staar Surgical Co	STAA
+Standard Parking Cor	STAN	S & T Bancorp Inc	STBA
+State Bancorp Inc N.	STBC	Stewart Information	STC
+Steris Corp	STE	Stec Inc	STEC
+Stewart Enterprises	STEI	Stellarone Corp	STEL
+Steamcells Inc	STEM	State Auto Finl Corp	STFC
+Suntrust Bks Inc	STI	St Jude Med Inc	STJ
+Stocker & Yale Inc N	STKR	Sterling Bancorp	STL
+Steel Dynamics Inc	STLD	Stanley Furniture In	STLY
+Stamps Com Inc	STMP	Steiner Leisure Ltd	STNR
+Stonemor Partners L	STON	Questar Corp	STR
+Strayer Ed Inc	STRA	Sri/Surgical Express	STRC
+Str Hldgs Inc	STRI	Sterling Constructio	STRL
+Streamline Health So	STRM	Sutron Corp	STRN
+Stratus Pptys Inc	STRS	Strattec Sec Corp	STRT
+Supreme Inds Inc	STS	Sterling Finl Corp W	STSA
+Argon St Inc	STST	State Str Corp	STT
+Student Ln Corp	STU	Starwood Ppty Tr Inc	STWD
+Seagate Technology	STX	Stereotaxis Inc	STXS
+South Texas Oil Co	STXX	Constellation Brands	STZ
+Suffolk Bancorp	SUBK	Sulphco Inc	SUF
+Southern Un Co New	SUG	Sun Communities Inc	SUI
+Sunoco Inc	SUN	Sun Healthcare Group	SUNH
+Superior Inds Intl	SUP	Supergen Inc	SUPG
+Superior Bancorp	SUPR	Supertex Inc	SUPX
+Cna Surety Corp	SUR	Synergetics Usa Inc	SURG
+Surewest Communicati	SURW	Susquehanna Bkshs Pa	SUSQ
+Susser Hldgs Corp	SUSS	Severn Bancorp Anna	SVBI
+Silverleaf Resorts I	SVLF	Savient Pharmaceutic	SVNT
+Syniverse Hldgs Inc	SVR	Servotronics Inc	SVT
+Supervalu Inc	SVU	Savvis Inc	SVVS
+Stillwater Mng Co	SWC	Smith & Wesson Hldg	SWHC
+Solarwinds Inc	SWI	Stanley Wks	SWK
+Skyworks Solutions I	SWKS	Schweitzer-Mauduit I	SWM
+Southwestern Energy	SWN	Sws Group Inc	SWS
+Superior Well Svcs I	SWSI	Southwest Wtr Co	SWWC
+Southwest Gas Corp	SWX	Safeway Inc	SWY
+Stanley Inc	SXE	Standex Intl Corp	SXI
+Sunoco Logistics Prt	SXL	Sensient Technologie	SXT
+Sybase Inc	SY	S Y Bancorp Inc	SYBT
+Stryker Corp	SYK	Sykes Enterprises In	SYKE
+Symantec Corp	SYMC	Synthemed Inc	SYMD
+Symmetricom Inc	SYMM	Syms Corp	SYMS
+Synthesis Energy Sys	SYMX	Synaptics Inc	SYNA
+Synalloy Corp	SYNL	Syntroleum Corp	SYNM
+Synovis Life Technol	SYNO	Syntel Inc	SYNT
+Sypris Solutions Inc	SYPR	Systemax Inc	SYX
+Sysco Corp	SYY	At&T Inc	T
+Travelcenters Of Ame	TA	Transact Technologie	TACT
+Tal Intl Group Inc	TAL	Tamalpais Bancorp	TAMB
+Molson Coors Brewing	TAP	Taser Intl Inc	TASR
+Carrols Restaurant G	TAST	Medallion Finl Corp	TAXI
+Taylor Cap Group Inc	TAYC	Taylor Devices Inc	TAYD
+Tandy Brands Accesso	TBAC	Bancorp Inc Del	TBBK
+The Bank Holdings In	TBHS	Trueblue Inc	TBI
+Transgenomic Inc	TBIO	Timberland Co	TBL
+Tbs International Plc	TBSI	Dri Corporation	TBUS
+Tcf Bkg & Svgs Fa Mi	TCB	Texas Capital Bancsh	TCBI
+Trico Bancshares	TCBK	21st Centy Hldg Co	TCHC
+Transcontinental Rlt	TCI	Tc Pipelines Lp	TCLP
+Taubman Ctrs Inc	TCO	Teradata Corp Del	TDC
+Transdigm Group Inc	TDG	Telephone & Data Sys	TDS
+3-D Sys Corp Del	TDSC	Tidewater Inc.	TDW
+Teledyne Technologie	TDY	Teco Energy Inc	TE
+Techteam Global Inc	TEAM	Teton Energy Corp	TEC
+Tech Data Corp	TECD	Techne Corp	TECH
+Tecumseh Prods Co	TECU.A	Integrys Energy Grou	TEG
+Telik Inc	TELK	Tenneco Automotive I	TEN
+Teradyne Inc	TER	Tesco Corp	TESO
+Tessco Technologies	TESS	Terex Corp New	TEX
+Tufco Technologies I	TFCO	Tfs Finl Corp	TFSL
+Teleflex Inc	TFX	Tredegar Inds Inc	TG
+Tegal Corp	TGAL	Tengasco Inc	TGC
+Tgc Inds Inc	TGE	Targeted Genetics Co	TGEN
+Textainer Group Holding	TGH	Triumph Group Inc Ne	TGI
+Triad Gty Inc	TGIC	Thomas Group Inc	TGIS
+Theglobe Com Inc	TGLO	Teekay Lng Partners	TGP
+Target Corp	TGT	Theragenics Corp	TGX
+Tenet Healthcare Cor	THC	First Finl Corp Ind	THFF
+Hanover Ins Group In	THG	Threshold Pharmaceutica	THLD
+Thermadyne Hldgs Cor	THMD	Thor Inds Inc	THO
+Thoratec Corp.	THOR	Thq Inc	THQI
+Theravance Inc	THRX	Treehouse Foods Inc	THS
+Tib Finl Corp	TIBB	Tibco Software Inc	TIBX
+Titanium Metals Corp	TIE	Tier Technologies In	TIER
+Tiffany & Co New	TIF	Tigerlogic Corporation	TIGR
+Tii Inds Inc	TIII	Temple Inland Inc	TIN
+Orchids Paper Prods	TIS	Team Inc	TISI
+Titan Machy Inc	TITN	Tri Vy Corp	TIV
+Tivo Inc	TIVO	Tix Corp	TIXC
+Tjx Cos Inc New	TJX	Teekay Shipping Mars	TK
+Tekelec	TKLC	Telkonet Inc	TKOI
+Timken Co	TKR	Tellabs Inc	TLAB
+Talbots Inc	TLB	Talecris Biotherapeutic	TLCR
+Taleo Corp	TLEO	Tandy Leather Factor	TLF
+Tollgrade Communicat	TLGD	Transmontaigne Partn	TLP
+Timberline Res Corp	TLR	Trans Lux Corp	TLX
+Temecula Valley Bank	TMCV	Team Health Holdings In	TMH
+Torchmark Corp	TMK	Management Network Grou	TMNG.D
+Thermo Fisher Scientifi	TMO	Tompkins Cnty Trustc	TMP
+Meridian Resource Co	TMR	Terremark Worldwide	TMRK
+Thomas & Betts Corp	TNB	Tennant Co	TNC
+Neutral Tandem Inc	TNDM	Terra Nitrogen Co L	TNH
+Technitrol Inc	TNL	Tns Inc	TNS
+Tech Ops Sevcon Inc	TO	Todd Shipyards Corp	TOD
+Tofu Time Inc Del	TOF	Toll Brothers Inc	TOL
+Tomotherapy Inc	TOMO	Tierone Corp	TONE
+Teekay Offshore Part	TOO	Tor Minerals Intl In	TORM
+Townebank Portsmouth	TOWN	Tutor Perini Corp	TPC
+Thomas Pptys Group I	TPGI	Barzel Inds Inc	TPUT
+Tempur Pedic Intl In	TPX	Triquint Semiconduct	TQNT
+Tootsie Roll Inds In	TR	Terra Inds Inc	TRA
+Track Data Corp	TRAC	Tradestation Group I	TRAD
+Dealertrack Hldgs In	TRAK	Trubion Pharmaceutic	TRBN
+Trailer Bridge	TRBR	Tejon Ranch Co	TRC
+Technology Resh Corp	TRCI	Transcend Services I	TRCR
+Tree Com Inc	TREE	Trex Inc	TREX
+Toreador Res Corp	TRGL	Targacept Inc	TRGT
+Transatlantic Hldgs	TRH	Trident Microsystems	TRID
+Speedway Motorsports	TRK	True Religion Appare	TRLG
+Trico Marine Service	TRMA	Trimble Navigation L	TRMB
+Trustmark Corp	TRMK	Trimeris Inc	TRMS
+Trinity Inds Inc	TRN	T.Rowe Price Group I	TROW
+Trc Cos Inc	TRR	Trimas Corp	TRS
+Trustco Bk Corp N Y	TRST	Trio Tech Intl	TRT
+Travelers Companies	TRV	Trw Automotive Hldgs	TRW
+Trx Inc	TRXI	Timberland Bancorp I	TSBK
+Thestreet Com	TSCM	Tractor Supply Co	TSCO
+South Finl Group Inc	TSFG	Teche Hldg Co	TSH
+Tyson Foods Inc	TSN	Tesoro Pete Corp	TSO
+Trans1 Inc	TSON	Transcept Pharmaceutica	TSPT
+Tessera Technologies	TSRA	Tsr Inc	TSRI
+Total Sys Svcs Inc	TSS	Teamstaff Inc	TSTF
+Terrestar Corp	TSTR	Tasty Baking Co	TSTY
+Telecommunications S	TSYS	Toro Co	TTC
+Teletech Holdings In	TTEC	Tetra Tech Inc New	TTEK
+T-3 Energy Srvcs Inc	TTES	Techtarget Inc	TTGT
+Tetra Technologies I	TTI	Ttm Technologies In	TTMI
+Take-Two Interactive	TTWO	Mac-Gray Corp	TUC
+Tuesday Morning Corp	TUES	Microtune Inc Del	TUNE
+Tupperware Corp	TUP	Plato Learning Inc	TUTR
+Lin Tv Corp	TVL	Towers Watson & Co	TW
+Time Warner Cable Inc	TWC	Towerstream Corp	TWER
+Tower Group Inc	TWGP	Titan Intl Inc Ill	TWI
+Twin Disc Inc	TWIN	Techwell Inc	TWLL
+Trans World Entmt Co	TWMC	Thomas Weisel Partne	TWPG
+Tw Telecom Inc	TWTC	Time Warner Inc	TWX
+Transwitch Corp	TXCC	Txco Res Inc	TXCO
+Texas Inds Inc	TXI	Texas Instrs Inc	TXN
+Texas Roadhouse Inc	TXRH	Textron Inc	TXT
+Tyler Technologies I	TYL	Monotype Imaging Holdin	TYPE
+Travelzoo Inc	TZOO	Under Armour Inc	UA
+Universal Truckload	UACL	United Amern Healthc	UAHC
+Universal Amern Finl	UAM	Ual Corp	UAUA
+Urstadt Biddle Pptys	UBA	United Bancorp Inc O	UBCP
+Youbet Com Inc	UBET	United Security Banc	UBFO
+United Financial Bancor	UBNK	Urstadt Biddle Pptys	UBP
+Union First Mkt Banksh	UBSH	United Bankshs Inc W	UBSI
+Ucbh Holdings Inc	UCBH	United Cmnty Bks Bla	UCBI
+United Cmnty Finl Co	UCFC	Ultra Clean Hldgs In	UCTT
+Udr Inc	UDR	Union Drilling Inc	UDRL
+US Dataworks Inc	UDW	Uranium Energy Corp	UEC
+Universal Electrs In	UEIC	United Fire & Cas Co	UFCS
+Unifi Inc	UFI	Universal Fst Prods	UFPI
+Ufp Technologies Inc	UFPT	Domtar Corp	UFS
+United Guardian Inc	UG	Ugi Corp New	UGI
+Unigene Labs Inc	UGNE	Amerco	UHAL
+Universal Health Svc	UHS	Universal Health Rlt	UHT
+Uil Hldg Corp	UIL	Unisys Corp	UIS
+Ultralife Batteries	ULBI	Urologix Inc	ULGX
+Ulta Salon Cosmetcs & F	ULTA	Ultimate Software Gr	ULTI
+Uluru Inc	ULU	Umb Finl Corp	UMBF
+U M H Properties Inc	UMH	Umpqua Hldgs Corp	UMPQ
+Unico Amern Corp	UNAM	Union Bancshares Inc	UNB
+Unica Corp	UNCA	Universal Detection Tec	UNDT
+Unifirst Corp Mass	UNF	United Nat Foods Inc	UNFI
+Unify Corp	UNFY	Unitedhealth Group I	UNH
+Unumprovident Corp	UNM	Union Pac Corp	UNP
+Unisource Energy Cor	UNS	Unit Corp	UNT
+United Online Inc	UNTD	Unity Bancorp Inc	UNTY
+United Panam Financi	UPFC	Universal Power Grou	UPG
+Uroplasty Inc	UPI	Ultra Pete Corp	UPL
+United Parcel Servic	UPS	Uqm Technologies Inc	UQM
+Urban Outfitters Inc	URBN	United Rentals Inc	URI
+Uranium Res Inc	URRE	Urs Corp New	URS
+USA Truck Inc	USAK	Universal Stainless	USAP
+USA Technologies Inc	USAT	US Bancorp Del	USB
+United Sec Bancshare	USBI	U S Energy Corp Wyo	USEG
+U S G Corp	USG	U S Home Sys Inc	USHS
+United States Lime &	USLM	United States Cellul	USM
+USA Mobility Inc	USMO	USANA Inc	USNA
+U S Physical Therapy	USPH	United Stationers In	USTR
+USEC Inc	USU	Ultratech Inc	UTEK
+United Therapeutics	UTHR	Universal Technical	UTI
+Uti Worldwide Inc	UTIW	Utek Corp	UTK
+Unitil Corp	UTL	Utah Med Prods Inc	UTMD
+Unitrin Inc	UTR	Utstarcom Inc	UTSI
+United Technologies	UTX	Universal Sec Instrs	UUU
+Universal Ins Hldgs	UVE	Univest Corp Pa	UVSP
+Universal Corp	UVV	United Westn Bancorp	UWBK
+Nevada Gold & Casino	UWN	U S Gold Corp	UXG
+Visa Inc	V	Valspar Corp	VAL
+Value Line Inc	VALU	Varian Med Sys Inc	VAR
+Varian Inc	VARI	Vascular Solutions I	VASC
+Virginia Comm Bancor	VCBI	Vcg Hldg Corp	VCGH
+Valassis Communicati	VCI	Valueclick Inc	VCLK
+Viewcast Com Inc	VCST	Vasco Data Sec Intl	VDSI
+Veeco Instrs Inc Del	VECO	Pet Drx Corporation	VETS
+Velocity Express Corp	VEXP	V F Corp	VFC
+Vonage Hldgs Corp	VG	Vector Group Ltd	VGR
+Vista Gold Corp	VGZ	Virnetx Holding Corp	VHC
+Valhi Inc New	VHI	Viacom Inc New -B	VIA.B
+Via Pharmaceuticals Inc	VIAP	Vical Inc	VICL
+Vicor Corp	VICR	Video Display Corp	VIDE
+Food Technology Serv	VIFL	Vicon Inds Inc	VII
+Vion Pharmaceuticals In	VION.Q	Virco Mfg Co	VIRC
+Virage Logic Corp	VIRL	Vist Financial Corp	VIST
+Orthovita Inc	VITA	Vitacost Com Inc	VITC
+Meridian Bioscience	VIVO	Volcom Inc	VLCM
+Village Super Mkt In	VLGE.A	Valence Technology I	VLNC
+Valero Energy Corp N	VLO	Volterra Semiconduct	VLTR
+Valley Natl Bancorp	VLY	Vulcan Matls Co	VMC
+Virgin Media Inc	VMED	Valmont Inds Inc	VMI
+Vmware Inc	VMW	Vineyard Natl Bancor	VNBC
+Vanda Pharmaceutical	VNDA	Vornado Rlty Tr	VNO
+Vocus Inc	VOCS	Volt Information Sci	VOL
+Volcano Corporation	VOLC	Audiovox Corp	VOXX
+Viewpoint Finl Group	VPFG	Viropharma Inc	VPHM
+Vermont Pure Hldgs L	VPS	Venoco Inc	VQ
+Validus Holdings Ltd	VR	Virtual Radiologic Corp	VRAD
+Veraz Networks Inc	VRAZ	Vermillion Inc	VRMQ
+Verenium Corp	VRNM	Verso Paper Corp	VRS
+Verisk Analytics Inc	VRSK	Verisign Inc	VRSN
+Vestin Rlty Mtg Ii Inc	VRTB	Virtus Invt Partners In	VRTS
+Virtusa Corp	VRTU	Vertex Pharmaceutica	VRTX
+Pharmasset Inc	VRUS	Valeant Pharmaceutic	VRX
+Viasat Inc	VSAT	Vision-Sciences Inc	VSCI
+Virtualscopics Inc	VSCP	Varian Semiconductor	VSEA
+Vse Corp	VSEC	Vishay Intertechnolo	VSH
+Vitamin Shoppe Inc	VSI	Versant Corp	VSNT
+Versar Inc	VSR	Verasun Energy Corp	VSUQ
+Vital Images Inc	VTAL	Inventiv Health Inc	VTIV
+Ventas Inc	VTR	Vertro Inc	VTRO
+Vectren Corp	VVC	Viad Corp	VVI
+Valuevision Intl Inc	VVTV	Vivus Inc	VVUS
+Verizon Communicatio	VZ	Wabtec Corp	WAB
+Westamerica Bancorp	WABC	Walter Invt Mgmt Corp	WAC
+Walgreen Co	WAG	Wainwright Bk&Tr Co	WAIN
+Western Alliance Ban	WAL	Washington Tr Bancor	WASH
+Waters Corp	WAT	Nextwave Wireless In	WAVE
+Wave Systems Corp	WAVX	Wabco Hldgs Inc	WBC
+Washington Bkg Co Oa	WBCO	Webmd Health Corp	WBMD
+Webster Finl Corp Co	WBS	Websense Inc	WBSN
+Wca Waste Corp	WCAA	West Coast Bancorp O	WCBO
+Wesco Intl Inc	WCC	Wellcare Group Inc	WCG
+Waste Connections In	WCN	Western Digital Corp	WDC
+Wd 40 Co	WDFC	Waddell & Reed Finl	WDR
+Webmediabrands Inc	WEBM	Wisconsin Energy Cor	WEC
+White Electr Designs	WEDC	Boots & Coots/Intl W	WEL
+Wendys Arbys Group Inc	WEN	Werner Enterprises I	WERN
+Western Gas Partners Lp	WES	Western Sizzlin Corp	WEST
+Winland Electrs Inc	WEX	Weyenberg Shoe Mfg	WEYS
+Wells Fargo & Co New	WFC	Westfield Financial	WFD
+Whole Foods Mkt Inc	WFMI	Memc Electr Matls In	WFR
+Washington Fed Inc	WFSL	Wells Gardner Electr	WGA
+Worldgate Communicat	WGAT	Wgl Hldgs Inc	WGL
+Wegener Corp	WGNR	Winnebago Inds Inc	WGO
+Woodward Governor Co	WGOV	Westwood Hldgs Group	WHG
+W Hldg Co Inc	WHI	Wilhelmina Intl Inc	WHLM
+Whirlpool Corp	WHR	Wilshire Bancorp Inc	WIBC
+Windstream Corp	WIN	Winmark Corp	WINA
+Winn Dixie Stores In	WINN	Encore Wire Corp	WIRE
+Wits Basin Precious	WITM	Wilmington Trust Cor	WL
+Westmoreland Coal Co	WLB	Willdan Group Inc	WLDN
+Willis Lease Finance	WLFC	Westlake Chem Corp	WLK
+Whiting Pete Corp Ne	WLL	Wellpoint Inc	WLP
+Wilshire Oil Co Tex	WLSE	Walter Inds Inc	WLT
+Waste Mgmt Inc Del	WM	West Marine Inc	WMAR
+Williams Cos	WMB	Williams Ctls Inc	WMCO
+Warner Music Group C	WMG	Wright Med Group Inc	WMGI
+Weis Mkts Inc	WMK	Wms Industries Inc	WMS
+Wal Mart Stores Inc	WMT	Williams Pipeline Partn	WMZ
+Wabash Natl Corp	WNC	Wind Energy Amer Inc	WNEA
+Schiff Nutrition Int	WNI	Western Refng Inc	WNR
+Great Wolf Resorts I	WOLF	Vca Antech Inc	WOOF
+Worthington Inds Inc	WOR	W P Carey & Co Llc	WPC
+Wpcs Intl Inc	WPCS	Watson Pharmaceutica	WPI
+Washington Post Co	WPO	Wausau-Mosinee Paper	WPP
+Williams Partners L	WPZ	Westar Energy Inc	WR
+Berkley W R Corp	WRB	Warnaco Group Inc	WRC
+Washington Real Esta	WRE	Warren Res Inc	WRES
+Weingarten Realty In	WRI	World Accep Corp Del	WRLD
+Telular Corp	WRLS	Wesbanco Inc	WSBC
+Waterstone Financial In	WSBF	Wesco Finl Corp	WSC
+Wsi Inds Inc	WSCI	Wsfs Finl Corp	WSFS
+Williams Sonoma Inc	WSM	Watsco Inc	WSO
+West Pharmaceutical	WST	Wayside Technology G	WSTG
+Westell Technologies	WSTL	West Bancorporation	WTBA
+Wintrust Financial C	WTFC	W & T Offshore Inc	WTI
+White Mtns Ins Group	WTM	Whitney Hldg Corp	WTNY
+Aqua America Inc	WTR	Watts Water Tech	WTS
+Wet Seal Inc	WTSL.A	Wireless Telecom Gro	WTT
+Weight Watchers Intl	WTW	Western Un Co	WU
+Willamette Vy Vineya	WVVI	World Wrestling Entr	WWE
+Westwood One Inc	WWON	Warwick Valley Tel C	WWVY
+Wolverine World Wide	WWW	Web Com Group Inc	WWWW
+Whx Corp	WXCO	Wright Express Corp	WXS
+Weyerhaeuser Co	WY	Wyndham Worldwide Co	WYN
+Wynn Resorts Ltd	WYNN	Widepoint Corp	WYY
+Wizzard Software Cor	WZE	United States Stl Co	X
+Xata Corp	XATA	Exco Resources Inc	XCO
+Xcorporeal Inc	XCR	Cimarex Energy Co	XEC
+Xcel Energy Inc	XEL	Xeta Corp	XETA
+Exide Technologies	XIDE	Expressjet Holdings Inc	XJT
+Xl Cap Ltd	XL	Xilinx Inc	XLNX
+Xenonics Hldgs Inc	XNN	Xenoport Inc	XNPT
+Exxon Mobil Corp	XOM	Xoma Ltd	XOMA
+Solitario Expl & Rty Co	XPL	Express 1 Expedited	XPO
+Lecg Corp	XPRT	Dentsply Intl Inc Ne	XRAY
+X-Rite Inc	XRIT	Xerium Technologies	XRM
+Xerox Corp	XRX	Crosstex Energy L P	XTEX
+Xto Energy Corp	XTO	Crosstex Energy Inc	XTXI
+Ixia	XXIA	Alleghany Corp	Y
+Yadkin Valley Financ	YAVY	Young Innovations In	YDNT
+Yahoo Inc	YHOO	York Wtr Co	YORW
+Yrc Worldwide Inc	YRCW	U Store It Tr	YSI
+Yum Brands Inc	YUM	Zanett Inc	ZANE
+Zbb Energy Corporation	ZBB	Zebra Technologies C	ZBRA
+Zep Inc	ZEP	Olympic Steel Inc	ZEUS
+Zymogenetics Inc	ZGEN	Zhone Technologies I	ZHNE
+Zygo Corp	ZIGO	Zilog Inc	ZILG
+Horsehead Hldg Corp	ZINC	Zions Bancorp	ZION
+Ziopharm Oncology In	ZIOP	Ziprealty Inc	ZIPR
+Zix Corp	ZIXI	Zale Corp New	ZLC
+Zimmer Hldgs Inc	ZMH	Zion Oil & Gas Inc	ZN
+Zenith Natl Ins Corp	ZNT	Zoll Med Corp	ZOLL
+Zoltek Cos Inc	ZOLT	Zoom Technologies Inc D	ZOOM
+Quiksilver Inc	ZQK	Zoran Corp	ZRAN
+Z Trim Hldgs	ZTHO	Zumiez Inc	ZUMZ
+Sealy Corp	ZZ
